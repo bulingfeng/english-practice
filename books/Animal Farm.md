@@ -161,3 +161,54 @@
 | underfed   | /ˌʌndərˈfɛd/      | 营养不良的      | adj.           |
 | rabbit     | /ˈræbɪt/          | 兔子；打猎兔子  | n./v.          |
 
+bin
+
+store-shed
+
+whip
+
+lashing out
+
+with one accord
+
+beforehand
+
+flung
+
+tormentors
+
+butted
+
+uprising
+
+thrashing
+
+maltreating
+
+frightended
+
+wit
+
+heel
+
+triumph
+
+possession
+
+carpet
+
+flapped
+
+meanwhile
+
+chased
+
+slammed
+
+five-barred
+
+expel
+
+gallop
+
+boundaries
