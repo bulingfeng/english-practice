@@ -161,54 +161,32 @@
 | underfed   | /ˌʌndərˈfɛd/      | 营养不良的      | adj.           |
 | rabbit     | /ˈræbɪt/          | 兔子；打猎兔子  | n./v.          |
 
-bin
-
-store-shed
-
-whip
-
-lashing out
-
-with one accord
-
-beforehand
-
-flung
-
-tormentors
-
-butted
-
-uprising
-
-thrashing
-
-maltreating
-
-frightended
-
-wit
-
-heel
-
-triumph
-
-possession
-
-carpet
-
-flapped
-
-meanwhile
-
-chased
-
-slammed
-
-five-barred
-
-expel
-
-gallop
-
-boundaries
+| Word | Phonetic | Chinese | Part of Speech |
+|------|-----------|----------|----------------|
+| bin | /bɪn/ | 箱子，垃圾箱 | n. |
+| store | /stɔr/ | 商店；储存 | n./v. |
+| shed | /ʃɛd/ | 棚屋；脱落 | n./v. |
+| whip | /wɪp/ | 鞭子；抽打 | n./v. |
+| lash | /læʃ/ | 鞭打；睫毛 | v./n. |
+| accord | /əˈkɔrd/ | 一致；协议 | n./v. |
+| beforehand | /bɪˈfɔrˌhænd/ | 事先，预先 | adv. |
+| fling | /flɪŋ/ | 投掷；猛扔 | v. |
+| tormentor | /tɔrˈmɛntər/ | 折磨者 | n. |
+| butt | /bʌt/ | 顶撞；烟蒂 | v./n. |
+| uprising | /ˈʌpˌraɪzɪŋ/ | 起义，暴动 | n. |
+| thrashing | /ˈθræʃɪŋ/ | 痛打；失败 | n. |
+| maltreat | /mælˈtrit/ | 虐待，折磨 | v. |
+| frighten | /ˈfraɪtn/ | 使惊吓 | v. |
+| wit | /wɪt/ | 智慧，机智 | n. |
+| heel | /hil/ | 脚后跟 | n. |
+| triumph | /ˈtraɪəmf/ | 胜利，成功 | n./v. |
+| possession | /pəˈzɛʃən/ | 所有物；占有 | n. |
+| carpet | /ˈkɑrpɪt/ | 地毯 | n. |
+| flap | /flæp/ | 拍打；封盖 | v./n. |
+| meanwhile | /ˈminˌwaɪl/ | 同时 | adv. |
+| chase | /tʃeɪs/ | 追赶，追逐 | v./n. |
+| slam | /slæm/ | 猛摔，猛关 | v. |
+| five-barred | /faɪv bɑrd/ | 五栏的 | adj. |
+| expel | /ɪkˈspɛl/ | 驱逐，开除 | v. |
+| gallop | /ˈɡæləp/ | 疾驰，飞奔 | v./n. |
+| boundary | /ˈbaʊndəri/ | 边界，界限 | n. |
