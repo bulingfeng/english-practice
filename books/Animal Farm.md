@@ -190,3 +190,76 @@
 | expel | /ɪkˈspɛl/ | 驱逐，开除 | v. |
 | gallop | /ˈɡæləp/ | 疾驰，飞奔 | v./n. |
 | boundary | /ˈbaʊndəri/ | 边界，界限 | n. |
+
+| Word         | Phonetic       | Chinese        | Part of Speech |
+| ------------ | -------------- | -------------- | -------------- |
+| trace        | /treɪs/        | 痕迹；追踪     | n./v.          |
+| reign        | /reɪn/         | 统治；支配     | n./v.          |
+| harness-room | /ˈhɑrnəs rum/  | 挽具室         | n.             |
+| stable       | /ˈsteɪbəl/     | 马厩；稳定的   | n./adj.        |
+| castrate     | /ˈkæstreɪt/    | 阉割           | v.             |
+| lamb         | /læm/          | 羔羊           | n.             |
+| rein         | /reɪn/         | 缰绳；控制     | n./v.          |
+| halter       | /ˈhɔltər/      | 笼头；缰绳     | n.             |
+| blinker      | /ˈblɪŋkər/     | 马眼罩         | n.             |
+| nosebag      | /ˈnoʊzˌbæɡ/    | 饲料袋         | n.             |
+| caper        | /ˈkeɪpər/      | 跳跃；雀跃     | v.             |
+| flame        | /fleɪm/        | 火焰           | n.             |
+| mane         | /meɪn/         | 鬃毛           | n.             |
+| decorate     | /ˈdɛkəˌreɪt/   | 装饰           | v.             |
+| naked        | /ˈneɪkɪd/      | 赤裸的         | adj.           |
+| ration       | /ˈræʃən/       | 配给；定量     | n./v.          |
+| dawn         | /dɔn/          | 黎明；破晓     | n.             |
+| pasture      | /ˈpæstʃər/     | 牧场           | n.             |
+| knoll        | /noʊl/         | 小山           | n.             |
+| gaze         | /ɡeɪz/         | 凝视           | v./n.          |
+| ecstasy      | /ˈɛkstəsi/     | 狂喜           | n.             |
+| gambol       | /ˈɡæmbəl/      | 欢跳           | v.             |
+| hurl         | /hɜrl/         | 猛投；抛掷     | v.             |
+| leap         | /lip/          | 跳跃           | v./n.          |
+| roll         | /roʊl/         | 滚动；翻滚     | v./n.          |
+| dew          | /du/           | 露水           | n.             |
+| crop         | /krɑp/         | 农作物；剪短   | n./v.          |
+| clod         | /klɑd/         | 土块           | n.             |
+| snuff        | /snʌf/         | 嗅；闻         | v.             |
+| scent        | /sɛnt/         | 气味；香味     | n.             |
+| inspection   | /ɪnˈspɛkʃən/   | 检查；视察     | n.             |
+| admiration   | /ˌædməˈreɪʃən/ | 钦佩；赞赏     | n.             |
+| ploughland   | /ˈplaʊlænd/    | 耕地           | n.             |
+| spinney      | /ˈspɪni/       | 小树林         | n.             |
+| file         | /faɪl/         | 文件；档案     | n./v.          |
+| halt         | /hɔlt/         | 停止；中止     | v./n.          |
+| utmost       | /ˈʌtˌmoʊst/    | 最大的；极度的 | adj.           |
+| tiptoe       | /ˈtɪptoʊ/      | 趾尖行走       | v./n.          |
+| awe          | /ɔ/            | 敬畏           | n.             |
+| luxury       | /ˈlʌkʃəri/     | 奢侈；豪华     | n.             |
+| feather      | /ˈfɛðər/       | 羽毛           | n.             |
+| mattress     | /ˈmætrəs/      | 床垫           | n.             |
+| carpet       | /ˈkɑrpɪt/      | 地毯           | n.             |
+| lithograph   | /ˈlɪθəˌɡræf/   | 平版印刷品     | n.             |
+| mantelpiece  | /ˈmæntlˌpis/   | 壁炉台         | n.             |
+| manner       | /ˈmænər/       | 方式；举止     | n.             |
+| reproach     | /rɪˈproʊtʃ/    | 责备           | v./n.          |
+| ham          | /hæm/          | 火腿           | n.             |
+| burial       | /ˈbɛriəl/      | 埋葬           | n.             |
+| barrel       | /ˈbærəl/       | 桶             | n.             |
+| stove        | /stoʊv/        | 炉子           | n.             |
+| unanimous    | /juˈnænəməs/   | 一致的         | adj.           |
+| preserve     | /prɪˈzɜrv/     | 保存；保护     | v.             |
+| harvest      | /ˈhɑrvɪst/     | 收获；收成     | n./v.          |
+| spelling     | /ˈspɛlɪŋ/      | 拼写           | n.             |
+| pot          | /pɑt/          | 锅；壶         | n.             |
+| bar          | /bɑr/          | 条；杆；阻止   | n./v.          |
+| knuckle      | /ˈnʌkəl/       | 指关节         | n.             |
+| trotter      | /ˈtrɑtər/      | 猪蹄           | n.             |
+| onward       | /ˈɑnwərd/      | 向前的         | adj./adv.      |
+| ladder       | /ˈlædər/       | 梯子           | n.             |
+| commandment  | /kəˈmændmənt/  | 戒律；诫命     | n.             |
+| inscribe     | /ɪnˈskraɪb/    | 刻写；题写     | v.             |
+| unalterable  | /ʌnˈɔltərəbəl/ | 不可改变的     | adj.           |
+| squealer     | /ˈskwilər/     | 告密者         | n.             |
+| rung         | /rʌŋ/          | 梯级           | n.             |
+| tar          | /tɑr/          | 焦油；柏油     | n./v.          |
+
+
+
