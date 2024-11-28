@@ -12,4 +12,4 @@ that sounds **doable**. I need to get more active. any tips for a beginner like 
 
 sure thing! take it slow, don't push too hard at first. consistency is key, and before you know it, it'll be a piece of cake for you too.
 
-thanks Tom. I'll give it a try
+thanks Tom. I'll give it a try.
