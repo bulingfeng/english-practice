@@ -7,7 +7,7 @@ you should hurry. the deadline is today at 5:00 p.m.
 
 today? I thought I had more time.
 
-nope, if you don't do it now you'll miss the boat.
+nope, if you don't do it now, you'll miss the boat.
 
 oh no. I better get on it right away.
 

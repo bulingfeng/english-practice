@@ -12,7 +12,7 @@ oh that's cool. do you like it there?
 
 yeah, it's nice there's always something happening. but I miss the quiet of my old place.
 
-I get that. sometimes s it's good to have peace.
+I get that. sometimes  it's good to have peace.
 
 true, maybe I'll visit your neck of the woods soon.
 

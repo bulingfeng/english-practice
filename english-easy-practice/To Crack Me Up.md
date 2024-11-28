@@ -41,8 +41,7 @@ example
 
 ### Priceless
 
-> extremely funny or valuable often used to describe something that
-> cannot be bought or something highly amusing.
+> extremely funny or valuable often used to describe something that cannot be bought or something highly amusing.
 
 example
 

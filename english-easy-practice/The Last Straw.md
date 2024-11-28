@@ -1,4 +1,4 @@
-## the Last Straw
+## The Last Straw
 
 there was a man named Tom, he worked at an office every day.
 
