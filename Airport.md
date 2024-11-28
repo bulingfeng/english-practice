@@ -7,7 +7,7 @@
   > The airport parking garage charges $20 per day.
   > (机场停车场每天收费20美元)
 
-2. departures [dɪˈpɑrʧərz]-出发区/离港
+2. departures [dɪˈpɑrʧərz]-出发地
   > The departures board shows our flight is delayed.
   > (出发航班显示屏显示我们的航班延误了)
 
@@ -67,7 +67,7 @@
   > I always fly economy to save money.
   > (我总是乘坐经济舱以节省开支)
 
-17. flight attendant [flaɪt əˈtɛndənt]-空乘人员
+17. flight attendant [flaɪt əˈtɛndənt]-空乘人员(主要指服务人员，是包含在cabin brew当中)
   > The flight attendant served drinks during the flight.
   > (空乘人员在飞行期间提供饮品服务)
 
@@ -99,19 +99,19 @@
   > The aisle seat offers easy access to the bathroom.
   > (靠过道的座位方便去洗手间)
 
-25. overhead bin [ˈoʊvərˌhɛd bɪn]-头顶行李舱
+25. overhead bin [ˈoʊvərˌhɛd bɪn]-行李舱
   > Please place your bags in the overhead bin.
   > (请将您的包放在头顶行李舱中)
 
-26. baggage claim [ˈbæɡɪʤ kleɪm]-行李认领处
+26. baggage claim [ˈbæɡɪʤ kleɪm]-取行李的地方
   > Meet me at baggage claim after landing.
   > (落地后在行李认领处见)
 
-27. terminals [ˈtɜrmənəlz]-航站楼
+27. terminal [ˈtɜrmənəlz]-航站楼
   > This airport has five terminals.
   > (这个机场有五个航站楼)
 
-28. arrivals [əˈraɪvəlz]-到达区/入港
+28. arrival [əˈraɪvəlz]-到达
   > The arrivals hall is on the ground floor.
   > (到达大厅在一层)
 
@@ -139,7 +139,7 @@
   > You must declare items at customs.
   > (你必须在海关申报物品)
 
-35. turbulence [ˈtɜrbjələns]-气流颠簸
+35. turbulence [ˈtɜrbjələns]-颠簸
   > We experienced some turbulence during the flight.
   > (飞行过程中我们经历了一些气流颠簸)
 
