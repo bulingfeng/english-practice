@@ -3,6 +3,7 @@
 did you hear about the new job opening at the company?
 
 oh, yeah I saw the email but I didn't apply yet.
+
 you should hurry. the deadline is today at 5:00 p.m.
 
 today? I thought I had more time.
