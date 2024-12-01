@@ -29,7 +29,7 @@
 29. If you need something while you're eating, for example, excuse me! 
 30. vegetarian vs vegan
 31. do you want a box for this one? 这个菜需要打包吗？
-32.  leftovers
+32. leftovers
 33. check
 34. split the check
 35. tip
