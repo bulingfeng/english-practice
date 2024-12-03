@@ -261,5 +261,53 @@
 | rung         | /rʌŋ/          | 梯级           | n.             |
 | tar          | /tɑr/          | 焦油；柏油     | n./v.          |
 
+neatly
 
+hayfield
+
+harvest
+
+uneasy
+
+lowing
+
+udders
+
+bursting
+
+fairy
+
+trotter
+
+frothing
+
+creamy
+
+mash
+
+harvest
+
+trooped
+
+## Chapter 3
+
+toil
+
+sweat
+
+drawback
+
+hind
+
+mow
+
+supervised
+
+superior
+
+rake
+
+steadily
+
+humble
 
