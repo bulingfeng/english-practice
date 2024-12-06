@@ -45,15 +45,15 @@ thank you for chatting with me!
 
 ## what are your sthengths and weaknesses?
 
-First, I intruduce my sthengths.
+First, I introduce my strengths.
 
-first, I can learn knowlege quickly from books or lessons. so I can use them in my job immedietly.
+first, I can learn knowledge quickly from books or lessons. so I can use them in my job immedietly.
 
-second,I can communicate with colleages well.
+second,I can communicate with colleagues well.
 
 weakness
 
-1. I think my English pronuncation needs to be improved.
+1. I think my English pronunciation needs to be improved.
 2. I think I have to takes some time to adapt foreign environment,but I believe I can adapt it quickly.
 
 其他外企面试参考文章
