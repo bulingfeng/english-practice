@@ -33,7 +33,11 @@ recently, I develop an AI application with LLM. before developing it , when I as
 
 but now, I just say a sentence to my phone, for example, I want to make a leave, the reason is I'm sick. This AI application can make a leave automately. This AI appplication is very convinent.
 
+
+
 second project is student project. this project includes many student information, parents can pay money for their children. 
+
+There are some flows in this student system, such as student's upgrading, student's dropout and student enrollment.
 
 This project use springboot,springcloud to build a hight available services. 
 
@@ -43,9 +47,23 @@ the database is mysql. the cache is redis.message midleware is kafka.
 
 thank you for chatting with me!
 
+
+
+the third project is a loan project. I communication with goverment offcers and get some datas, such as marital data of company boss, the number of active employees in the company and so on.
+
+This system will score  small companies based on this data to determine whether they meet the loan eligibility criteria.
+
+
+
+the fourth project is  a peer to peer loan system. The department I work in is the risk control department. This system can dertermin whether a person can loan money.
+
+The loan criteria are determined based on transaction records and the amount of salary.
+
+
+
 ## what are your sthengths and weaknesses?
 
-First, I introduce my strengths.
+First, I want to talk about my sthengths.
 
 first, I can learn knowledge quickly from books or lessons. so I can use them in my job immedietly.
 
