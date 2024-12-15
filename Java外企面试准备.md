@@ -2,7 +2,7 @@
 
 When I worked at Hailiang Education Company, A service meets OOM exception often. The reason is that many threads create files at the same time.
 
-so I use kafka to handle this problem. I create one Topic named file-messge, and 3 partitions, this partition number is equal to services number. so ervery service only has one thread to create files.
+so I use kafka to handle this problem. I create one Topic named file-messge, and 3 partitions, the number of services is same as the number of partitions. so ervery service only has one thread to create files.
 
 This action can make save many memory resources, so the OOM exception disappeared.
 
@@ -15,7 +15,7 @@ I have much experience in building microservices with springboot and springcloud
 1. I will assign some tasks to the others.
 2. I will write the core codes for the project.
 
-and I have the ability to solve online issues, for example, a sql runs very slowly, so I use the explain key word to analyze, then I add a unique index  to the order no. after that, the sql runs faster than before. Performance improved by 80%
+and I have the ability to solve online issues, for example, a sql runs very slowly, so I use the explain key word to analyze, then I add a unique index  to the order no. after that, the sql ran faster than before. Performance improved by 80%
 
 ## how did you optimize SQL queries
 
@@ -29,9 +29,9 @@ because I think there is a big platform and more chances in BeiJing, so I quit m
 
 ## Please introduce your project you have developed
 
-recently, I develop an AI application with LLM. before developing it , when I ask for a leave, I have to login oa system, and fill some key information. That is so complex.
+recently, I developed an AI application with LLM. before developing it , when I ask for a leave, I have to login oa system, and fill some key information. That is so complex.
 
-but now, I just say a sentence to my phone, for example, I want to make a leave, the reason is I'm sick. This AI application can make a leave automately. This AI appplication is very convinent.
+but now, I just say a sentence to my mobile phone, for example, I want to make a leave, the reason is I'm sick. This AI application can make a leave automately. This AI appplication is very convinent.
 
 
 
@@ -39,7 +39,7 @@ second project is student project. this project includes many student informatio
 
 There are some flows in this student system, such as student's upgrading, student's dropout and student enrollment.
 
-This project use springboot,springcloud to build a hight available services. 
+This project use springboot,springcloud to build a hight available micro-services. 
 
 the database is mysql. the cache is redis.message midleware is kafka.
 
@@ -49,15 +49,15 @@ thank you for chatting with me!
 
 
 
-the third project is a loan project. I communication with goverment offcers and get some datas, such as marital data of company boss, the number of active employees in the company and so on.
+the third project is a loan project. I communication with goverment offcers and get some datas, such as marital datas of company boss, the number of active employees in the company and so on.
 
 This system will score  small companies based on this data to determine whether they meet the loan eligibility criteria.
 
 
 
-the fourth project is  a peer to peer loan system. The department I work in is the risk control department. This system can dertermin whether a person can loan money.
+the fourth project is  a peer to peer loan system. The department I work in is the risk control department. This system can dertermined whether a person can loan money.
 
-The loan criteria are determined based on transaction records and the amount of salary.
+If the person meets the loan criteria, he can get the loan.
 
 
 
@@ -69,7 +69,7 @@ first, I can learn knowledge quickly from books or lessons. so I can use them in
 
 second,I can communicate with colleagues well.
 
-weakness
+Last, I want to talk about my weakness
 
 1. I think my English pronunciation needs to be improved.
 2. I think I have to takes some time to adapt foreign environment,but I believe I can adapt it quickly.
