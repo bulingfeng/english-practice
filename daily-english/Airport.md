@@ -4,92 +4,92 @@
 
 ## 常用单词与句子
 1. parking garage [ˈpɑrkɪŋ ɡəˈrɑʒ]-停车场
-  > The airport parking garage charges $20 per day.
-  > (机场停车场每天收费20美元)
+  > I parked my car in the parking garage at the airport before my flight.
+  > (我在机场的停车场停了车，然后去乘飞机。)
 
-2. departures [dɪˈpɑrʧərz]-出发地
-  > The departures board shows our flight is delayed.
-  > (出发航班显示屏显示我们的航班延误了)
+2. departure [dɪˈpɑrʧər]-出发地
+  > Passengers are advised to arrive at the airport two hours before departure.
+  > (建议乘客在起飞前两个小时到达机场。)
 
 3. book a ticket [bʊk ə ˈtɪkɪt]-订票
-  > I need to book a ticket for next week's flight.
-  > (我需要订下周的机票)
+  > I need to book a ticket for my flight to New York.
+  > (我需要为去纽约的航班预订一张机票。)
 
 4. reserve a seat [rɪˈzɜrv ə sit]-预订座位
-  > Would you like to reserve a seat by the window?
-  > (您想预订靠窗的座位吗？)
+  > I would like to reserve a seat for my flight to Paris.
+  > (我想为去巴黎的航班预定一个座位。)
 
 5. check-in [ˈʧɛk ɪn]-办理登机手续
-  > Online check-in opens 24 hours before the flight.
-  > (网上值机在航班起飞前24小时开放)
+  > You should check in at least two hours before your flight departure.
+  > (你应该在航班起飞前至少两小时完成登机手续。)
 
 6. suitcase [ˈsutkeis]-行李箱
-  > My suitcase is within the weight limit.
-  > (我的行李箱在重量限制范围内)
+  > I packed my clothes into the suitcase before heading to the airport.
+  > (我在去机场之前把衣服放进了旅行箱。)
 
 7. personal item [ˈpɜrsənəl ˈaɪtəm]-随身物品
-  > You can bring one personal item, like a laptop bag.
-  > (你可以携带一件随身物品，比如笔记本电脑包)
+  > I brought a small personal item with me, like my laptop and charger.
+  > (我带了一个小的个人物品，比如笔记本电脑和充电器。)
 
 8. boarding pass [ˈbɔrdɪŋ pæs]-登机牌
-  > Please have your boarding pass ready at the gate.
-  > (请在登机口准备好您的登机牌)
+  > Make sure to keep your boarding pass with you until you board the plane.
+  > (确保在登机前一直把登机牌带在身上。)
 
 9. airline [ˈɛrlaɪn]-航空公司
-  > Which airline are you flying with?
-  > (你乘坐哪家航空公司的航班？)
+  > The airline offers both domestic and international flights.
+  > (这家航空公司提供国内和国际航班。)
 
 10. security [səˈkjʊrəti]-安检
-  > Remove your shoes at the security checkpoint.
-  > (请在安检处脱掉鞋子)
+  > You need to go through security before you can board your flight.
+  > (你必须通过安检才能登机。)
 
 11. passport [ˈpæspɔrt]-护照
-  > Don't forget to bring your passport.
-  > (别忘了带护照)
+  > Don't forget to bring your passport when traveling abroad.
+  > (出国旅行时不要忘记带护照。)
 
 12. escalator [ˈɛskəˌleɪtər]-自动扶梯
-  > Take the escalator up to the departure level.
-  > (乘自动扶梯上到出发层)
+  > The escalator at the airport was out of service, so I had to take the stairs.
+  > (机场的自动扶梯坏了，所以我不得不走楼梯。)
 
 13. moving walkway [ˈmuvɪŋ ˈwɔkˌweɪ]-自动人行道
-  > Use the moving walkway to reach Terminal B.
-  > (使用自动人行道到达B航站楼)
+  > The moving walkway at the airport helps passengers move quickly between terminals.
+  > (机场的自动人行道帮助乘客快速在航站楼之间移动。)
 
 14. boarding [ˈbɔrdɪŋ]-登机
-  > Boarding will begin in 15 minutes.
-  > (15分钟后开始登机)
+  > The boarding process will begin 30 minutes before the flight departs.
+  > (登机过程将在航班起飞前30分钟开始。)
 
 15. business class [ˈbɪznəs klæs]-商务舱
-  > Business class passengers may board first.
-  > (商务舱旅客可以优先登机)
+  > Business class passengers can enjoy access to the lounge before the flight.
+  > (商务舱乘客可以在航班前享受贵宾休息室的服务。)
 
-16. economy [ɪˈkɑnəmi]-经济舱
-  > I always fly economy to save money.
-  > (我总是乘坐经济舱以节省开支)
+16. economy class [ɪˈkɑnəmi]-经济舱
+  > I always fly in economy class to save money on my trips.
+  > (我总是选择经济舱，这样可以节省旅行费用。)
 
-17. flight attendant [flaɪt əˈtɛndənt]-空乘人员(主要指服务人员，是包含在cabin brew当中)
-  > The flight attendant served drinks during the flight.
-  > (空乘人员在飞行期间提供饮品服务)
+17. flight attendant [flaɪt əˈtɛndənt]-空乘人员(主要指服务人员)
+  > The flight attendants were very helpful during the long flight.
+  > (在长途航班中，空乘人员非常乐于助人。)
 
-18. cabin crew [ˈkæbən kru]-机舱乘务组
+18. cabin crew [ˈkæbən kru]-机舱乘务组(flight attendant是cabin crew的子集)
   > The cabin crew demonstrated safety procedures.
   > (机舱乘务组演示了安全程序)
 
 19. buckle seat belt [ˈbʌkəl sit bɛlt]-系安全带
-  > Please buckle your seat belt during takeoff.
-  > (起飞时请系好安全带)
+  > Please buckle your seat belt before the plane takes off.
+  > (飞机起飞前请系好安全带。)
 
 20. oxygen mask [ˈɑksəʤən mæsk]-氧气面罩
-  > In case of emergency, oxygen masks will drop automatically.
-  > (紧急情况下，氧气面罩会自动降下)
+  > The flight attendants demonstrated how to use the oxygen mask in case of an emergency.
+  > (空乘人员演示了在紧急情况下如何使用氧气面罩。)
 
 21. life vest [laɪf vɛst]-救生衣
-  > Your life vest is located under your seat.
-  > (救生衣位于您的座位下方)
+  > The flight attendants showed us how to inflate the life vest during the safety demonstration.
+  > (空乘人员在安全演示中向我们展示了如何充气救生衣。)
 
 22. middle seat [ˈmɪdəl sit]-中间座位
-  > Unfortunately, I got stuck in the middle seat.
-  > (不幸的是，我被安排在了中间座位)
+  > I always try to avoid the middle seat when booking a flight.
+  > (我在预订航班时总是尽量避免选择中间座位。)
 
 23. window seat [ˈwɪndoʊ sit]-靠窗座位
   > I prefer the window seat for better views.
@@ -144,8 +144,8 @@
   > (飞行过程中我们经历了一些气流颠簸)
 
 36. land [lænd]-着陆
-  > The plane will land in 20 minutes.
-  > (飞机将在20分钟后着陆)
+  > The plane will land in New York at 5:00 PM.
+  > (飞机将在下午5点降落在纽约。)
 
 37. passport control [ˈpæspɔrt kənˈtroʊl]-护照检查处
   > There's a long line at passport control.
