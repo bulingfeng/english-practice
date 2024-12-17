@@ -261,53 +261,84 @@
 | rung         | /rʌŋ/          | 梯级           | n.             |
 | tar          | /tɑr/          | 焦油；柏油     | n./v.          |
 
-neatly
-
-hayfield
-
-harvest
-
-uneasy
-
-lowing
-
-udders
-
-bursting
-
-fairy
-
-trotter
-
-frothing
-
-creamy
-
-mash
-
-harvest
-
-trooped
+| 单词     | 美式发音     | 中文意思       | 词性      |
+| -------- | ------------ | -------------- | --------- |
+| neatly   | /ˈniːtli/    | 整洁地         | 副词      |
+| hayfield | /ˈheɪˌfiːld/ | 干草地         | 名词      |
+| harvest  | /ˈhɑːrvɪst/  | 收获           | 名词/动词 |
+| uneasy   | /ʌnˈiːzi/    | 不安的         | 形容词    |
+| lowing   | /ˈloʊɪŋ/     | 低吼声         | 名词      |
+| udders   | /ˈʌdərz/     | 乳房（动物）   | 名词      |
+| bursting | /ˈbɜːrstɪŋ/  | 爆裂的         | 形容词    |
+| fairy    | /ˈfɛri/      | 精灵，仙女     | 名词      |
+| trotter  | /ˈtrɑːtər/   | 蹄子，跑步者   | 名词      |
+| frothing | /ˈfrɔθɪŋ/    | 起泡的，冒泡的 | 形容词    |
+| creamy   | /ˈkriːmi/    | 奶油状的       | 形容词    |
+| mash     | /mæʃ/        | 捣碎           | 动词      |
+| harvest  | /ˈhɑːrvɪst/  | 收获           | 名词/动词 |
+| trooped  | /truːpt/     | 成群结队地走   | 动词      |
 
 ## Chapter 3
 
-toil
+| 单词           | 美式发音           | 中文意思           | 词性        |
+| -------------- | ------------------ | ------------------ | ----------- |
+| toil           | /tɔɪl/             | 辛勤劳动           | 动词/名词   |
+| sweat          | /swɛt/             | 汗水，流汗         | 名词/动词   |
+| drawback       | /ˈdrɔːbæk/         | 缺点，障碍         | 名词        |
+| hind           | /haɪnd/            | 后部的，雌鹿       | 形容词/名词 |
+| mow            | /moʊ/              | 割，修剪           | 动词        |
+| supervised     | /ˈsuːpərˌvaɪzd/    | 受监督的           | 形容词      |
+| superior       | /suːˈpɪriər/       | 优越的，卓越的     | 形容词      |
+| rake           | /reɪk/             | 耙子，耙           | 名词/动词   |
+| steadily       | /ˈstɛdəli/         | 稳定地，稳步地     | 副词        |
+| humblest       | /ˈhʌmbəlɪst/       | 最谦虚的           | 形容词      |
+| duck           | /dʌk/              | 鸭子               | 名词        |
+| fro            | /froʊ/             | 远离               | 副词        |
+| wisp           | /wɪsp/             | 一缕，微风         | 名词        |
+| beak           | /biːk/             | 喙，鸟嘴           | 名词        |
+| implement      | /ˈɪmpləˌmɛnt/      | 工具，实施         | 名词/动词   |
+| tramp          | /træmp/            | 流浪者，跋涉       | 名词/动词   |
+| steadily       | /ˈstɛdəli/         | 稳定地，稳步地     | 副词        |
+| gee up         | /dʒiː ʌp/          | （催促马）快走     | 短语动词    |
+| whoa back      | /woʊ bæk/          | 停下，退后         | 短语动词    |
+| wastage        | /ˈweɪstɪdʒ/        | 浪费，浪费掉的东西 | 名词        |
+| stalk          | /stɔːk/            | 茎，跟踪           | 名词/动词   |
+| conceived      | /kənˈsiːvd/        | 设想，构思         | 动词        |
+| acute          | /əˈkjuːt/          | 敏锐的，急性的     | 形容词      |
+| doled out      | /doʊld aʊt/        | 发放，分发         | 短语动词    |
+| grudging       | /ˈɡrʌdʒɪŋ/         | 不情愿的，勉强的   | 形容词      |
+| worthless      | /ˈwɜːrθləs/        | 毫无价值的         | 形容词      |
+| parasitical    | /ˌpærəˈsɪtɪkəl/    | 寄生的             | 形容词      |
+| leisure        | /ˈliːʒər/          | 休闲，空闲         | 名词        |
+| inexperienced  | /ˌɪnɪkˈspɪərɪənst/ | 缺乏经验的         | 形容词      |
+| harvested      | /ˈhɑːrvɪstɪd/      | 已收获的           | 形容词      |
+| blow away      | /bloʊ əˈweɪ/       | 吹走，震惊         | 短语动词    |
+| chaff          | /ʧæf/              | 麦秆，糠           | 名词        |
+| possessed      | /pəˈzɛst/          | 拥有，着迷         | 形容词/动词 |
+| threshing      | /ˈθrɛʃɪŋ/          | 脱粒，脱粒机       | 名词        |
+| tremendous     | /trəˈmɛndəs/       | 巨大的，极大的     | 形容词      |
+| mighty         | /ˈmaɪti/           | 强大的，巨大的     | 形容词      |
+| cockerel       | /ˈkɑːkərəl/        | 小公鸡             | 名词        |
+| whatever       | /wətˈɛvər/         | 无论什么           | 代词        |
+| setback        | /ˈsɛtˌbæk/         | 挫折，障碍         | 名词        |
+| motto          | /ˈmɑːtoʊ/          | 座右铭，格言       | 名词        |
+| bushel         | /ˈbʊʃəl/           | 蒲式耳（体积单位） | 名词        |
+| stray          | /streɪ/            | 迷路，流浪         | 形容词/动词 |
+| grain          | /ɡreɪn/            | 谷物，颗粒         | 名词        |
+| grumbled       | /ˈɡrʌmbəld/        | 抱怨，发牢骚       | 动词        |
+| ration         | /ˈræʃən/           | 配给，定量供给     | 名词/动词   |
+| quarrelling    | /ˈkwɔːrəlɪŋ/       | 争吵，口角         | 动词        |
+| jealousy       | /ˈdʒɛləsi/         | 嫉妒，吃醋         | 名词        |
+| shirked        | /ʃɜːrk/            | 逃避，推卸         | 动词        |
+| mollie         | /ˈmɒli/            | 莫莉（人名）       | 名词        |
+| hoof           | /huːf/             | 蹄子               | 名词        |
+| peculiar       | /pɪˈkjuːljər/      | 特别的，独特的     | 形容词      |
+| vanish         | /ˈvænɪʃ/           | 消失               | 动词        |
+| reappear       | /ˌriːəˈpɪr/        | 重新出现           | 动词        |
+| purred         | /pɜːrd/            | 发出咕噜声，低声唱 | 动词        |
+| affectionately | /əˈfɛkʃənətli/     | 深情地，亲切地     | 副词        |
 
-sweat
 
-drawback
 
-hind
 
-mow
-
-supervised
-
-superior
-
-rake
-
-steadily
-
-humble
 
