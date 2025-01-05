@@ -16,7 +16,7 @@ ATM
 
 A machine that lets people take out cash from their bank accounts.
 
-Deposity
+Deposit
 
 > put money into your bank account
 
