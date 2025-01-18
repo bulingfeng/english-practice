@@ -8,3 +8,10 @@
 
 1. 我个人总结了`孙志立`老师的发音内容，可以先从这个基础开始。[孙志立发音](./pronunciation/孙志立发音记录.md).
 
+
+
+
+
+## 常用的网址和工具
+
+1. 把音频转为问题的工具[音频转文字工具](https://www.assemblyai.com/dashboard/signup)
