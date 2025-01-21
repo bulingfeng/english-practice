@@ -73,3 +73,5 @@
 19、the lights in the subway were on but suddenly went off. That must have been quite surprising. were people around you panicking?
 
 > / ðə laɪts ɪn ðə ˈsʌbˌweɪ wɚ ɑːn bʌt ˈsʌdənli wɛnt ɔːf. ðæt mʌst həv bɪn kwaɪt sərˈpraɪzɪŋ. wɚ ˈpiːpəl əˈraʊnd jʊ ˈpænɪkɪŋ? /
+
+20、A person is riding a bicycle.
