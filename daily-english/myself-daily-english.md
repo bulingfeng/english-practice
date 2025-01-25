@@ -75,3 +75,7 @@
 > / ðə laɪts ɪn ðə ˈsʌbˌweɪ wɚ ɑːn bʌt ˈsʌdənli wɛnt ɔːf. ðæt mʌst həv bɪn kwaɪt sərˈpraɪzɪŋ. wɚ ˈpiːpəl əˈraʊnd jʊ ˈpænɪkɪŋ? /
 
 20、A person is riding a bicycle.
+
+21、I bought some fresh persimmons from the market.
+
+22、I made a soup with white daikon and beef.
