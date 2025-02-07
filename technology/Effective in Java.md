@@ -1,4 +1,4 @@
-1. forword
+1. foreword
 
 2. preface
 
@@ -107,6 +107,72 @@
 
     > Underlying enum type 基本的枚举类型
 
-35. 
+35. In the **absence** of such criteria, the API returns an instance of a default implementation.
+
+    > Absence of 缺席
+
+36. so it can be difficult to figure out how to instantiate a class that provides static factory methods instead of constructors.
+
+    > - Figure out 解决
+    > - Instantiate 实例化
+
+37. In the meantime 在这个期间
+
+38. by adhering to common naming conventions
+
+    > - by adhering /baɪ/ /ədˈhɪrɪŋ/ 靠强制
+    > - convention 公约
+
+39. This list is far from exhaustive
+
+    >Exhaustive 详细的，彻底的，全面的
+
+40. A type-conversion method that takes a single parameter and returns a corresponding instance of this type.
+
+    > corresponding instance 相对应的实例
+
+41. An aggregation method that takes multiple parameters and returns an instance of this type that incorporates them
+
+    > Aggregation method 聚合方法
+    >
+    > Incorporate  合并
+
+42. A more verbose alternative to from and of
+
+    > Verbose alternative 中间备用
+
+43. it pays to understand their relative merits
+
+    > relative merits 相对优点
+
+44. culminating in a constructor with all the optional parameters
+
+    > Culminating 最终
+
+45. For brevity’s sake, only four optional fields are shown
+
+    > for  brevity's sake 为了简洁起见
+
+46. Typically this **constructor invocation** will require many parameters
+
+47. In short, the telescoping constructor pattern works, but it is hard to write client code when there are many parameters, and harder still to read it.
+
+    > Telescoping constructor pattern 层叠的构造模式
+
+48. Long sequences of identically typed parameters can cause subtle bugs.
+
+    > identically typed parameters 相同类型的参数
+    >
+    > Subtle bugs 难以察觉的 bug
+
+49. If the client accidentally reverses two such parameters, the compiler won’t complain, but the program will misbehave at runtime
+
+    > Reverse two such parameters 调换两个参数顺序
+    >
+    >  the compiler won’t complain 编译器不会报错
+    >
+    > but the program will misbehave at runtime 程序在运行的时候会发生异常
+
+50. 
 
     
