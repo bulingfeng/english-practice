@@ -114,132 +114,145 @@
 
     > Bulk of API  api 的数量
     >
-    > Conceptual weight  概念上的负担
+    > **Conceptual** [kənˈsɛptʃuəl]：概念上的
+    >
+    > **Weight** [weɪt]：复杂度
 
 30. The programmer knows that the returned object has **precisely** the API specified by its interface, so there is no need to read additional class documentation for the implementation class. **Furthermore**, using such a static factory method requires the client to **refer to** the returned object by interface rather than implementation class, which is generally good practice.
 
-    > Precisely  恰好
+    > **Precisely** [prɪˈsaɪsli]：精确地
     >
-    > refer to by interface 通过借口引用
+    > **Refer to** [rɪˈfɜːr tu]：引用
     >
-    > Futhermore 此外
-    >> good practice  好的实践
+    > **Furthermore** [ˈfɜːðərmɔːr]：此外
+    >
+    > > good practice  好的实践
 
 31. As of Java 8, the restriction that interfaces cannot contain static methods was **eliminated**, so there is typically  little reason to provide a noninstantiable **companion** **class** for an interface.
 
-    > Eliminated 被移除
+    > **Eliminated** [ɪˈlɪmɪˌneɪtɪd]：取消,被放弃
     >
-    > Companion class 伴生类
+    > **Companion class** [kəmˈpænjən klæs]：伴生类
 
 32. they return an instance of one of two subclasses, depending on the size of the **underlying** enum type
 
-    > Underlying enum type 基本的枚举类型
+    > **Underlying** [ˈʌndərˌlaɪɪŋ]：基础的
+    >
+    > **Enum type** [ˈiːnʌm taɪp]：枚举类型
 
 33. In the **absence** of such criteria, the API returns an instance of a default implementation.
 
-    > Absence of 缺席
+    > **Absence** [ˈæbsəns]：缺乏
 
 34. so it can be difficult to figure out how to instantiate a class that provides static factory methods instead of constructors.
 
-    > - Figure out 解决
-    > - Instantiate 实例化
+    > - **Figure out** [ˈfɪɡər aʊt]：弄清楚
+    > - **Instantiate** [ɪnˈstænʃieɪt]：实例化
 
 35. In the meantime 在这个期间
 
 36. by adhering to common naming conventions
 
-    > - by adhering /baɪ/ /ədˈhɪrɪŋ/ 靠强制
-    > - convention 公约
+    > - **Adhering** [ədˈhɪrɪŋ]：遵守  adhere
+    > - **Conventions** [kənˈvɛnʃənz]：约定
 
 37. This list is far from exhaustive
 
-    >Exhaustive 详细的，彻底的，全面的
+    >**Exhaustive** [ɪɡˈzɔːstɪv]：详尽无遗的
+    >
+    >**Far from** [fɑːr frəm]：远非
 
 38. A type-conversion method that takes a single parameter and returns a corresponding instance of this type.
 
-    > corresponding instance 相对应的实例
+    > **Type-conversion method** [taɪp kənˈvɜːrʒən ˈmɛθəd]
+    >
+    > **Corresponding instance** [kəˈrɪspɒndɪŋ ˈɪnstəns]：相应的实例
 
 39. An aggregation method that takes multiple parameters and returns an instance of this type that incorporates them
 
-    > Aggregation method 聚合方法
+    > **Aggregation method** [æɡˈrɪɡeɪʃən ˈmɛθəd]：聚合方法
     >
-    > Incorporate  合并
+    > **Incorporates** [ɪnˈkɔːpəreɪts]：包含
 
 40. A more verbose alternative to from and of
 
-    > Verbose alternative 中间备用
+    > **Verbose** [vɜːrˈboʊs] - 冗长的，啰嗦的
 
 41. it pays to understand their relative merits
 
-    > relative merits 相对优点
+    > **Merits** [ˈmɛrɪts] - 优点，价值
 
 42. culminating in a constructor with all the optional parameters
 
-    > Culminating 最终
+    > **Culminating** [ˈkʌlməˌneɪtɪŋ] - 达到高潮，最终达到
 
 43. For brevity’s sake, only four optional fields are shown
 
-    > for  brevity's sake 为了简洁起见
+    > **Brevity** [ˈbrɛvɪti] - 简洁，简短
+    >
+    > **Sake** [seɪk] - 目的，缘故
 
 44. Typically this **constructor invocation** will require many parameters
 
 45. In short, the telescoping constructor pattern works, but it is hard to write client code when there are many parameters, and harder still to read it.
 
-    > Telescoping constructor pattern 层叠的构造模式
+    > **Telescoping** [ˈtɛlɪskoʊpɪŋ] - 层叠的
 
 46. Long sequences of identically typed parameters can cause subtle bugs.
 
-    > identically typed parameters 相同类型的参数
+    > **Subtle** [ˈsʌtl] - 微妙的，难以察觉的
     >
-    > Subtle bugs 难以察觉的 bug
+    > **Bugs** [bʌɡz] - 错误，缺陷
 
 47. If the client accidentally reverses two such parameters, the compiler won’t complain, but the program will misbehave at runtime
 
-    > Reverse two such parameters 调换两个参数顺序
+    > **Accidentally** [ˌæksɪˈdɛntəli] - 意外地，偶然地
     >
-    >  the compiler won’t complain 编译器不会报错
+    > **Reverses** [rɪˈvɜːrsɪz] - 反转，颠倒
     >
-    > but the program will misbehave at runtime 程序在运行的时候会发生异常
+    > **Complain** [kəmˈpleɪn] - 抱怨，指出错误
+    >
+    > **Misbehave** [ˌmɪsˈbɪheɪv] - 行为不当，出现错误或异常
 
 48. if a bit wordy wordy-冗长的
 
 49. Because construction is split across multiple calls, a JavaBean may be in an inconsistent state partway through its construction
 
-    > inconsistent state - 不一致状态
+    > **Inconsistent** [ˌɪnkənˈsɪstənt] - 不一致的，指的是状态不符合预期或规则
     >
-    > Partway through 在....过程中
+    > **Partway through** [ˈpɑːrtweɪ θruː] - 在...过程中
 
 50. Attempting to use an object when it’s in an inconsistent state may cause failures that are far removed from the code containing the bug and hence difficult to debug
 
-    > far removed from 远离
+    > **Far removed from** [fɑːr rɪˈmuːvd frəm] - 远离
     >
-    > Hence 因此
+    > **Hence** [hɛns] - 因此，表示因果关系
 
 51. A related disadvantage is that the JavaBeans pattern precludes the possibility of making a class immutable
 
-    > Preclude 阻止
+    > **Precludes** [prɪˈkluːdz] - 排除
     >
-    > Inmmutable 不变性
+    > **Immutable** [ɪˈmjuːtəbl] - 不可变的
 
 52. but this variant is unwieldy and rarely used in practice
 
-    > Variant 变体
+    > **Variant** [ˈvɛəriənt] - 变体
     >
-    > Unwieldy 笨重的
-    >
-    > 
+    > **Unwieldy** [ʌnˈwiːldi] - 笨重的
 
 53. Moreover, it can cause errors at runtime because the compiler cannot ensure that the programmer calls the freeze method on an object before using it.
 
     > **Moreover** [mɔːrˈoʊvər]：此外
     >
-    > **Freeze (冻结)** [friːz]：在编程中，通常指的是将对象的状态锁定，使其不能再被修改。
+    > **Freeze method** [friːz ˈmɛθəd] - 冻结方法，指的是使对象的状态不可修改的方法
 
 54. Instead of making the desired object directly, the client calls a constructor (or static factory) with all of the required parameters and gets a builder object.
 
     > **Desired** [dɪˈzaɪərd]：指的是想要的、期望的，描述某个目标或事物。
 
 55. The builder’s setter methods return the builder itself so that invocations can be chained, resulting in a **fluent API**
+
+    > **Fluent API** [ˈfluːənt ˈeɪpiːaɪ] - 流式 API
 
 56. The Builder pattern simulates named optional parameters as found in Python and Scala.
 
