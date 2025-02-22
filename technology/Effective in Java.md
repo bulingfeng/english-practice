@@ -56,7 +56,7 @@
     >
     > **Serialized forms** [ˈsɪriəlaɪzd fɔːrmz]：序列化形式
 
-19. how to ensure they are destroyed in a timely manner, and how to manage any cleanup actions that must precede their destruction.
+19. how to ensure they are destroyed in **a timely manner**, and how to manage any cleanup actions that must **precede** their destruction.
 
     > **Timely manner** [ˈtaɪmli ˈmænər]：及时的方式
     >
@@ -87,6 +87,10 @@
 23. The ability of static factory methods to return the same object from repeated **invocations** allows classes to maintain strict control over what instances exist at any time.
 
     > Repeated invocation - 重复调用；
+    >
+    > **Repeated** [rɪˈpiːtɪd]
+    >
+    > **Invocation** [ˌɪnvəˈkeɪʃən]
 
 24. it allows an **immutable** value class to make the guarantee that no two equal instances exist: 
 
@@ -206,17 +210,19 @@
 
 46. Long sequences of identically typed parameters can cause subtle bugs.
 
+    > Identically  /aɪˈdɛn.tɪ.kəl.i/ - 一致
+    >
     > **Subtle** [ˈsʌtl] - 微妙的，难以察觉的
     >
     > **Bugs** [bʌɡz] - 错误，缺陷
 
-47. If the client accidentally reverses two such parameters, the compiler won’t complain, but the program will misbehave at runtime
+47. If the client **accidentally** **reverses** two such parameters, the compiler won’t complain, but the program will **misbehave** at runtime
 
     > **Accidentally** [ˌæksɪˈdɛntəli] - 意外地，偶然地
     >
     > **Reverses** [rɪˈvɜːrsɪz] - 反转，颠倒
     >
-    > **Complain** [kəmˈpleɪn] - 抱怨，指出错误
+    > **compiler** /kəmˈpaɪ.lɚ/ - 编译器
     >
     > **Misbehave** [ˌmɪsˈbɪheɪv] - 行为不当，出现错误或异常
 
@@ -228,31 +234,31 @@
     >
     > **Partway through** [ˈpɑːrtweɪ θruː] - 在...过程中
 
-50. Attempting to use an object when it’s in an inconsistent state may cause failures that are far removed from the code containing the bug and hence difficult to debug
+50. Attempting to use an object when it’s in an inconsistent state may cause failures that are far removed from the code containing the bug and **hence** difficult to debug
 
     > **Far removed from** [fɑːr rɪˈmuːvd frəm] - 远离
     >
     > **Hence** [hɛns] - 因此，表示因果关系
 
-51. A related disadvantage is that the JavaBeans pattern precludes the possibility of making a class immutable
+51. A related disadvantage is that the JavaBeans pattern **precludes** the possibility of making a class immutable
 
     > **Precludes** [prɪˈkluːdz] - 排除
     >
     > **Immutable** [ɪˈmjuːtəbl] - 不可变的
 
-52. but this variant is unwieldy and rarely used in practice
+52. but this **variant** is **unwieldy** and rarely used in practice
 
     > **Variant** [ˈvɛəriənt] - 变体
     >
     > **Unwieldy** [ʌnˈwiːldi] - 笨重的
 
-53. Moreover, it can cause errors at runtime because the compiler cannot ensure that the programmer calls the freeze method on an object before using it.
+53. **Moreover**, it can cause errors at runtime because the compiler cannot ensure that the programmer calls the freeze method on an object before using it.
 
     > **Moreover** [mɔːrˈoʊvər]：此外
     >
     > **Freeze method** [friːz ˈmɛθəd] - 冻结方法，指的是使对象的状态不可修改的方法
 
-54. Instead of making the desired object directly, the client calls a constructor (or static factory) with all of the required parameters and gets a builder object.
+54. Instead of making the **desired** object directly, the client calls a constructor (or static factory) with all of the required parameters and gets a builder object.
 
     > **Desired** [dɪˈzaɪərd]：指的是想要的、期望的，描述某个目标或事物。
 
@@ -262,11 +268,11 @@
 
 56. The Builder pattern simulates named optional parameters as found in Python and Scala.
 
-    > **Simulates** [ˈsɪmjʊleɪts]：模拟
+    > **Simulate** [ˈsɪmjʊleɪt]：模拟
 
-57. Validity checks were omitted for brevity. To detect invalid parameters as soon as possible, check parameter validity in the builder’s constructor and methods.
+57. Validity checks were **omitted** for brevity. To detect invalid parameters as soon as possible, check parameter validity in the builder’s constructor and methods.
 
-    > **Omitted** [oʊˈmɪtɪd]：省略
+    > **omit**: /əˈmɪt/：省略
     >
     > **For brevity** [fɔːr ˈbrɛvɪti]：为了简洁
     >
@@ -276,11 +282,11 @@
 
     > **Invariants** [ɪnˈveəriənts]：不变式，指在程序执行过程中始终保持不变的条件或规则
 
-59. The Builder pattern is well suited to class hierarchies.
+59. The Builder pattern is well suited to class **hierarchies**.
 
     > **Hierarchy** [ˈhaɪərɑːrki]：层次结构
 
-60. Use a parallel hierarchy of builders, each nested in the corresponding class. Abstract classes have abstract builders; concrete classes have concrete builders. For example, consider an abstract class at the root of a hierarchy representing various kinds of pizza
+60. Use a **parallel** hierarchy of builders, each **nested** in the corresponding class. Abstract classes have abstract builders; **concrete classes** have concrete builders. For example, consider an abstract class at the root of a hierarchy representing various kinds of pizza
 
     > **Parallel** [ˈpærəlɛl]：平行的
     >
@@ -290,10 +296,14 @@
 
 61. This, along with the abstract self method, allows method chaining to work properly in subclasses, without the need for casts.
 
+    > chaining：/ˈtʃeɪ.nɪŋ/
+    >
     > Casts 类型转换
 
 62. This technique, wherein a subclass method is declared to return a subtype of the return type declared in the super-class, is known as covariant return typing. It allows clients to use these builders without the need for casting.
 
+    > Wherein /wɛrˈɪn/ : 在其中、在何处、在哪方面
+    >
     > **Covariant return typing** [ˌkoʊveɪˈænt rɪˈtɜːrn ˈtaɪpɪŋ]：协变返回类型，指的是子类重写父类方法时，返回类型可以是父类返回类型的子类型。允许子类方法返回更加具体的类型，而父类方法返回更一般的类型。
 
 63. A minor advantage of builders over constructors is that builders can have multiple **varargs** parameters because each parameter is specified in its own method
@@ -302,8 +312,10 @@
     >
     > Vararg [ˈvɑːrˌɑːrɡ]：可变参数
 
-64. Alternatively, builders can aggregate the parameters passed into multiple calls to a method into a single field, as demonstrated in the addTopping method earlier.
+64. Alternatively, builders can aggregate the parameters passed into multiple calls to a method into a single field, as **demonstrated** in the addTopping method earlier.
 
+    > demonstrate /ˈdɛm.ən.streɪt/ 展示、证明、示范
+    >
     > **Alternatively** [ɔːlˈtɜːnətɪvli]：或者，表示一种选择或替代方案。
     >
     > **Aggregate** [ˈæɡrɪɡeɪt]：聚合
