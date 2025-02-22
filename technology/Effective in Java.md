@@ -1,14 +1,14 @@
-1. foreword
+1. foreword /ˈfɔːrwɚd/
 
-2. preface
+2. preface /ˈprɛfəs/
 
-3. acknowledgement
+3. acknowledgement /əkˈnɑːlɪdʒmənt/
 
 4. Consist of 
 
 5. **Convey** [kənˈveɪ]  传达，表达
 
-6. capture
+6. capture /ˈkæptʃɚ/
 
 7. **Loosely** [ˈluːsli] 是副词，意思是“松散地”或“不严格地
 
@@ -16,21 +16,25 @@
 
 9. The book is not intended to be read from cover to cover 
 
-10. The items are heavily cross-referenced so you can easily plot your own course through the book.
+10. The items are heavily cross-referenced so you can easily **plot** your own course through the book.
 
     > **Cross-referenced** [krɔːs ˈrɛfərənstɪd] 是形容词，表示“交叉引用的”
+    >
+    > Plot /plɑːt/ 规划，策划
 
 11. **Coverage** [ˈkʌvərɪdʒ] 是名词，表示“覆盖范围”或“报道范围”
 
 12. Most items are **illustrated with** program examples.
 
-    > Illustrate 说明
+    > **illustrated** /ˈɪl.ə.streɪ.tɪd/
+    >
+    > illustrated with  用....来说明
 
 13. **Favor** [ˈfeɪvər] 意为“偏爱”或“恩惠”
 
 14. you may have to add one or more import **declarations**, or other such **boilerplate**
 
-    > **Import declarations** [ˈɪmpɔːrt dɪˈkleɪʃənz]：导入声明
+    > **Import declarations** [ˈɪmpɔːrt /ˌdɛkləˈreɪʃənz/]：导入声明
     >
     > **Boilerplate** [ˈbɔɪlərpleɪt]：模板代码
 
@@ -72,7 +76,9 @@
     >
     > **Dispense** [dɪsˈpɛns]：提供，分发
     >
-    > **Duplicate** [ˈduːplɪkət]：重复的
+    > **Duplicate** [ˈduːplɪkət]：**重复的**
+    >
+    > Instances /ˈɪnstənsɪz/
 
 22. It can greatly improve performance if **equivalent** objects are requested often, especially if they are expensive to create.
 
