@@ -320,6 +320,23 @@
     >
     > **Aggregate** [ˈæɡrɪɡeɪt]：聚合
 
-65. 
+65. specially if many of the parameters are optional or of **identical** type.(从这里开始记录)
 
-    
+    > identical
+
+66. Enforce the **singleton** property with a private constructor or an enum type
+
+67. Thisis necessary to ensure that an instance of the subclass is usable anywhere that an instance of the superclass is **usable**.
+
+68. If you **violate** this rule, the compiler will generate an error message when you try to compile the subclass.
+
+69. To **facilitate** testing your code, you may be tempted to make a class, interface, or member more accessible than otherwise necessary.
+
+70. This **is fine up** to a point. It is acceptable to make a private member of a public class package-private in order to test it.
+
+71. You can expose constants via public static final fields, assuming the constants form an **integral** part of the abstraction provided by the class.
+
+72. By convention, such fields have names consisting of **capital letters**.
+
+
+
