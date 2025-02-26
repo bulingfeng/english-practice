@@ -336,7 +336,75 @@
 
 71. You can expose constants via public static final fields, assuming the constants form an **integral** part of the abstraction provided by the class.
 
-72. By convention, such fields have names consisting of **capital letters**.
+72. By convention, such fields have names consisting of **capital letters**, with words separated by **underscores** .
+
+73. While the reference cannot be modified, the referenced object can be modified—with **disastrous** results.
+
+74. This is a frequent source of **security holes**.
+
+75. **Beware of** the fact that some IDEs generate accessors that return references to private array fields, resulting in **exactly** this problem.
+
+76. As of Java 9, there are two additional, **implicit** access levels introduced as part of the **module** system.
+
+77. A module may **explicitly** export some of its packages via export declarations in its module declaration (which is by convention **containedin** a source file named module-info.java). 
+
+78. within the module, accessibility is **unaffected** by export declarations.
+
+79. Public and protected members of public classes in unexported packages give rise to the two implicit access levels, which are **intramodular** **analogues** of the normal public and protected levels.
+
+80. Unlike the four main access levels, the two module-based levels are largely **advisory**.
+
+81. If you place a module’s JAR file on your application’s class path instead of its module path, the packages in the module **revert to** their non-modular behavior.
+
+82. **rearrange** your source tree, and take special actions to **accommodate** any access to non-modularized packages from within your modules.
+
+83. It is too early to say whether modules will achieve **widespread** use outside of the JDK itself. In the meantime, it seems best to avoid them unless you have a **compelling** need.
+
+84. you should prevent any **stray** classes, interfaces, or members from becoming part of the API.
+
+85. With the **exception** of public static final fields, which serve as constants, public classes should have no public fields
+
+86. **Occasionally**, you may be tempted to write **degenerate** classes that serve no **purpose** other than to group instance fields.
+
+87. You can’t change the **representation** without changing the API, you can’t enforce **invariants**, and you can’t take **auxiliary** action when a field is accessed.
+
+88.  Hard-line object-oriented programmers feel that such classes are **anathema** and should always be replaced by classes with private fields and public accessor methods (getters) and, for mutable classes, **mutators** (setters).
+
+89. if a class is accessible outside its package, provide accessor methods to **preserve** the flexibility to change the class’s internal **representation**.
+
+90. If a public class exposes its data fields, all hope of changing its representation is lost because client code can be **distributed** far and wide.
+
+91. if a class is package-private or is a private **nested** class, there is nothing **inherently** wrong with exposing its data fields
+
+92. assuming they do an **adequate** job of describing the **abstraction** provided by the class.
+
+93. This approach generates less visual **clutter** than the accessor-method approach, both in the class definition and in the client code that uses it. 
+
+94. this code is **confined** to the package containing the class.
+
+95. the scope of the change is further **restricted** to the **enclosing** class.
+
+96. Several classes in the Java platform libraries **violate** the advice that public classes should not expose fields directly. **Prominent** examples include the Point and **Dimension** classes in the java.awt package.
+
+97. Rather than examples to be **emulated**, these classes should be regarded as **cautionary** **tales**.
+
+98. You can’t change the representation of such a class without changing its API, and you can’t take **auxiliary** actions when a field is read, but you can enforce invariants.
+
+99. **Remainder omitted**
+
+100. In summary, public classes should never expose mutable fields. It is less harmful, though still **questionable**, for public classes to expose immutable fields. It is, however, sometimes **desirable** for package-private or private nested classes
+
+     to expose fields, whether mutable or immutable.
+
+101. Minimize mutability
+
+102. so no changes can ever be **observed**.
+
+103. They are less **prone** to error and are more **secure**.
+
+104. This prevents careless or **malicious** subclasses from **compromising** the immutable behavior of the class by behaving as if the object’s state has changed. 
+
+105. 
 
 
 
