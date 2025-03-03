@@ -368,7 +368,7 @@
 
 87. You can’t change the **representation** without changing the API, you can’t enforce **invariants**, and you can’t take **auxiliary** action when a field is accessed.
 
-88.  Hard-line object-oriented programmers feel that such classes are **anathema** and should always be replaced by classes with private fields and public accessor methods (getters) and, for mutable classes, **mutators** (setters).
+88. Hard-line object-oriented programmers feel that such classes are **anathema** and should always be replaced by classes with private fields and public accessor methods (getters) and, for mutable classes, **mutators** (setters).
 
 89. if a class is accessible outside its package, provide accessor methods to **preserve** the flexibility to change the class’s internal **representation**.
 
@@ -404,7 +404,54 @@
 
 104. This prevents careless or **malicious** subclasses from **compromising** the immutable behavior of the class by behaving as if the object’s state has changed. 
 
-105. 
+105. This prevents clients from obtaining access to mutable objects referred to by fields and modifying these objects directly. While it is technically **permissible** for immutable classes to have public final fields containing primitive values or references to immutable objects, it is not recommended because it **precludes** changing the internal representation in a later release.
+
+106. Make **defensive** copies  in constructors, accessors, and readObject methods.
+
+107. which has accessors for each attribute but no **corresponding** **mutators**. Here is a **slightly** more complex example.
+
+108. it provides accessors for the real and **imaginary** parts and provides the four basic **arithmetic** operations: addition, **subtraction**, multiplication, and division.
+
+109. This pattern is known as the functional approach because methods return the result of applying a function to their **operand**,
+
+     without modifying it. 
+
+110. **Contrast** it to the **procedural** or **imperative** approach in which methods apply a **procedure** to their operand, causing its state to change.
+
+111. Note that the method names are prepositions (such as plus) rather than verbs (such as add). This emphasizes the fact that methods don’t change the values of the objects. The BigInteger and BigDecimal classes did not **obey** this naming convention, and it led to many usage errors.
+
+112. If you make sure that all constructors **establish** class invariants, then it is guaranteed that these invariants will **remain** true for all time
+
+113. Mutable objects, on the other hand, can have **arbitrarily** complex state spaces.
+
+114. If the documentation does not provide a precise description of the state transitions performed by mutator methods, it can be difficult or impossible to use a mutable class reliably.
+
+115. They cannot be **corrupted** by multiple threads accessing them **concurrently**.
+
+116. Using such static factories causes clients to share instances instead of creating new ones, reducing memory **footprint** and garbage collection costs.
+
+117. **Opting** for static factories in place of publicconstructors when designing a new class gives you the flexibility to add caching later, without modifying clients.
+
+118. **Not only** can you share immutable objects, **but** they can share their internals.
+
+119. For example, the BigInteger class uses a sign-**magnitude** representation internally.
+
+120. It’s much easier to maintain the invariants of a complex object if you know that its component objects will not change **underneath** it.
+
+121. Immutable objects provide failure **atomicity** for free. Their state never changes, so there is no possibility of a temporary **inconsistency**.
+
+122. The operation requires time and space **proportional** to the size of the BigInteger.
+
+123. **Contrast** this to java.util.BitSet.
+
+124. The performance problem is **magnified** if you perform a multistep operation that generates a new object at every step, eventually discarding all objects except the final result.
+
+125. **Internally**, the immutable class can be **arbitrarily** clever.
+
+126. BigInteger has a package-private mutable “companion class” that it uses to speed up multistep operations such as modular **exponentiation**.
+
+127. for all of the reasons outlined earlier. Luckily, you don’t have to use it: the implementors of BigInteger did the hard work for you.
+
 
 
 
