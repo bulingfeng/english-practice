@@ -1,166 +1,127 @@
-congress
-
-protest
-
-touts
-
-proposal
-
-astronaut
-
-stuck
-
-joint
-
-chamber
-
-cheers
-
-Democrats
-
-Dozen
-
-Protect Veterans
-
-escorted out
-
-sergeant
-
-sergeant
-
-Restore order 
-
-chamber
-
-mandate
-
-enact
-
-spared
-
-assassination
-
-presidency
-
-dismantling
-
-agency
-
-renaming
-
-landmarks
-
-fraud
-
-journalist
-
-verify
-
-outlets
-
-overstating
-
-federal
-
-notably
-
-layoffs
-
-bureaucrats
-
-gallery
-
-tariff
-
-tumbing
-
-economist
-
-commerce
-
-recession
-
-impose
-
-reciprocal
-
-disturbance
-
-tempered
-
-hostility
-
-negotiating
-
-reiterated
-
-desire
-
-lawmaker
-
-agenda
-
-deportation
-
-criminalizing
-
-Undergo gender
-
-affirming
-
-exuberance
-
-objection
-
-Filed out 
-
-eclipsing
-
-unprecedented
-
-giveaway
-
-hunt
-
-grocery
-
-laid out 
-
-credible
-
-Presidential election
-
-trio
-
-dominate
-
-conducted
-
-priority
-
-majority
-
-Arab League
-
-summit
-
-counter
-
-Riviera
-
-floated
-
-enclave
-
-tourism
-
-palestinians
-
-denounced
-
-equivalent
-
-ethnic cleansing
-
-endorsed
-
+| 单词           | 美式音标          | 汉语意思             | 词性        |
+| -------------- | ----------------- | -------------------- | ----------- |
+| congress       | /ˈkɑːŋɡrəs/       | 国会                 | 名词        |
+| protest        | /ˈproʊtest/       | 抗议                 | 名词/动词   |
+| tout           | /taʊt/            | 吹捧                 | 动词        |
+| proposal       | /prəˈpoʊzl/       | 提议                 | 名词        |
+| astronaut      | /ˈæstrənɔːt/      | 宇航员               | 名词        |
+| stick          | /stɪk/            | 卡住；粘贴           | 动词        |
+| joint          | /dʒɔɪnt/          | 联合的；关节         | 形容词/名词 |
+| chamber        | /ˈtʃeɪmbər/       | 会议厅；房间         | 名词        |
+| cheer          | /tʃɪr/            | 欢呼                 | 动词/名词   |
+| democrat       | /ˈdeməkræt/       | 民主党人             | 名词        |
+| dozen          | /ˈdʌzn/           | 一打（12个）         | 名词        |
+| protect        | /prəˈtekt/        | 保护                 | 动词        |
+| escort         | /ˈeskɔːrt/        | 护送                 | 动词        |
+| sergeant       | /ˈsɑːrdʒənt/      | 军士；警官           | 名词        |
+| restore        | /rɪˈstɔːr/        | 恢复                 | 动词        |
+| order          | /ˈɔːrdər/         | 秩序；命令           | 名词/动词   |
+| mandate        | /ˈmændeɪt/        | 授权；命令           | 名词/动词   |
+| enact          | /ɪˈnækt/          | 颁布；制定           | 动词        |
+| spare          | /sper/            | 饶恕；节省           | 动词        |
+| assassination  | /əˌsæsɪˈneɪʃn/    | 暗杀                 | 名词        |
+| presidency     | /ˈprezɪdənsi/     | 总统职位             | 名词        |
+| dismantle      | /dɪsˈmæntl/       | 拆除；废除           | 动词        |
+| agency         | /ˈeɪdʒənsi/       | 机构                 | 名词        |
+| rename         | /riːˈneɪm/        | 重新命名             | 动词        |
+| landmark       | /ˈlændmɑːrk/      | 地标                 | 名词        |
+| fraud          | /frɔːd/           | 欺诈                 | 名词        |
+| journalist     | /ˈdʒɜːrnəlɪst/    | 记者                 | 名词        |
+| verify         | /ˈverɪfaɪ/        | 验证                 | 动词        |
+| outlet         | /ˈaʊtlet/         | 出口；媒体机构       | 名词        |
+| overstate      | /ˌoʊvərˈsteɪt/    | 夸大                 | 动词        |
+| federal        | /ˈfedərəl/        | 联邦的               | 形容词      |
+| notably        | /ˈnoʊtəbli/       | 尤其                 | 副词        |
+| layoff         | /ˈleɪˌɔːf/        | 裁员                 | 名词        |
+| bureaucrat     | /ˈbjʊrəkræt/      | 官僚                 | 名词        |
+| gallery        | /ˈɡæləri/         | 画廊；旁听席         | 名词        |
+| tariff         | /ˈtærɪf/          | 关税                 | 名词        |
+| tumble         | /ˈtʌmbl/          | 下跌；翻滚           | 动词        |
+| economist      | /ɪˈkɑːnəmɪst/     | 经济学家             | 名词        |
+| commerce       | /ˈkɑːmɜːrs/       | 商业                 | 名词        |
+| recession      | /rɪˈseʃn/         | 经济衰退             | 名词        |
+| impose         | /ɪmˈpoʊz/         | 强加；征收           | 动词        |
+| reciprocal     | /rɪˈsɪprəkl/      | 互助的；倒数的       | 形容词      |
+| disturbance    | /dɪˈstɜːrbəns/    | 骚乱；干扰           | 名词        |
+| temper         | /ˈtempər/         | 缓和；脾气           | 动词/名词   |
+| hostility      | /hɑːˈstɪləti/     | 敌意                 | 名词        |
+| negotiate      | /nɪˈɡoʊʃieɪt/     | 谈判                 | 动词        |
+| reiterate      | /riˈɪtəreɪt/      | 重申                 | 动词        |
+| desire         | /dɪˈzaɪər/        | 渴望                 | 名词/动词   |
+| lawmaker       | /ˈlɔːˌmeɪkər/     | 立法者               | 名词        |
+| agenda         | /əˈdʒendə/        | 议程                 | 名词        |
+| deportation    | /ˌdiːpɔːrˈteɪʃn/  | 驱逐出境             | 名词        |
+| criminalize    | /ˈkrɪmɪnəlaɪz/    | 将……定为犯罪         | 动词        |
+| undergo        | /ˌʌndərˈɡoʊ/      | 经历                 | 动词        |
+| gender         | /ˈdʒendər/        | 性别                 | 名词        |
+| affirm         | /əˈfɜːrm/         | 确认；肯定           | 动词        |
+| exuberance     | /ɪɡˈzuːbərəns/    | 热情                 | 名词        |
+| objection      | /əbˈdʒekʃn/       | 反对                 | 名词        |
+| file           | /faɪl/            | 提交；排列           | 动词        |
+| eclipse        | /ɪˈklɪps/         | 超过；日食           | 动词/名词   |
+| unprecedented  | /ʌnˈpresɪdentɪd/  | 前所未有的           | 形容词      |
+| giveaway       | /ˈɡɪvəˌweɪ/       | 赠品；泄露           | 名词        |
+| hunt           | /hʌnt/            | 狩猎；搜寻           | 动词/名词   |
+| grocery        | /ˈɡroʊsəri/       | 杂货                 | 名词        |
+| lay            | /leɪ/             | 放置；制定           | 动词        |
+| credible       | /ˈkredəbl/        | 可信的               | 形容词      |
+| election       | /ɪˈlekʃn/         | 选举                 | 名词        |
+| trio           | /ˈtriːoʊ/         | 三人组               | 名词        |
+| dominate       | /ˈdɑːmɪneɪt/      | 主导                 | 动词        |
+| conduct        | /kənˈdʌkt/        | 进行                 | 动词        |
+| priority       | /praɪˈɔːrəti/     | 优先事项             | 名词        |
+| majority       | /məˈdʒɔːrəti/     | 多数                 | 名词        |
+| summit         | /ˈsʌmɪt/          | 峰会                 | 名词        |
+| counter        | /ˈkaʊntər/        | 对抗；柜台           | 动词/名词   |
+| float          | /floʊt/           | 漂浮；提出           | 动词        |
+| enclave        | /ˈenkleɪv/        | 飞地                 | 名词        |
+| tourism        | /ˈtʊrɪzəm/        | 旅游业               | 名词        |
+| palestinian    | /ˌpæləˈstɪniən/   | 巴勒斯坦人           | 名词        |
+| denounce       | /dɪˈnaʊns/        | 谴责                 | 动词        |
+| equivalent     | /ɪˈkwɪvələnt/     | 等价物               | 名词/形容词 |
+| cleanse        | /klenz/           | 清洗                 | 动词        |
+| endorse        | /ɪnˈdɔːrs/        | 认可                 | 动词        |
+| track          | /træk/            | 跟踪；轨道           | 动词/名词   |
+| reconstruction | /ˌriːkənˈstrʌkʃn/ | 重建                 | 名词        |
+| infrastructure | /ˈɪnfrəstrʌktʃər/ | 基础设施             | 名词        |
+| repurpose      | /riːˈpɜːrpəs/     | 重新利用             | 动词        |
+| rubble         | /ˈrʌbl/           | 瓦砾                 | 名词        |
+| estimate       | /ˈestɪmeɪt/       | 估计                 | 动词        |
+| phase          | /feɪz/            | 阶段                 | 名词        |
+| debris         | /dəˈbriː/         | 碎片                 | 名词        |
+| unexploded     | /ˌʌnɪkˈsploʊdɪd/  | 未爆炸的             | 形容词      |
+| egyptian       | /ɪˈdʒɪpʃn/        | 埃及的               | 形容词      |
+| harbor         | /ˈhɑːrbər/        | 港口                 | 名词        |
+| govern         | /ˈɡʌvərn/         | 治理                 | 动词        |
+| propose        | /prəˈpoʊz/        | 提议                 | 动词        |
+| administrative | /ədˈmɪnɪstreɪtɪv/ | 行政的               | 形容词      |
+| committee      | /kəˈmɪti/         | 委员会               | 名词        |
+| equation       | /ɪˈkweɪʒn/        | 方程；等式           | 名词        |
+| guardian       | /ˈɡɑːrdiən/       | 守护者               | 名词        |
+| reject         | /rɪˈdʒekt/        | 拒绝                 | 动词        |
+| permanently    | /ˈpɜːrmənəntli/   | 永久地               | 副词        |
+| territory      | /ˈterɪtɔːri/      | 领土                 | 名词        |
+| delicate       | /ˈdelɪkət/        | 微妙的               | 形容词      |
+| ceasefire      | /ˈsiːsfaɪər/      | 停火                 | 名词        |
+| constituent    | /kənˈstɪtʃuənt/   | 选民；组成部分       | 名词        |
+| confront       | /kənˈfrʌnt/       | 面对                 | 动词        |
+| representative | /ˌreprɪˈzentətɪv/ | 代表                 | 名词        |
+| fear           | /fɪr/             | 害怕                 | 动词        |
+| guidance       | /ˈɡaɪdəns/        | 指导                 | 名词        |
+| midterm        | /ˈmɪdˌtɜːrm/      | 中期                 | 名词        |
+| quote          | /kwoʊt/           | 引用                 | 动词/名词   |
+| soundbite      | /ˈsaʊndˌbaɪt/     | 简短引语             | 名词        |
+| capsule        | /ˈkæpsl/          | 太空舱；胶囊         | 名词        |
+| orbit          | /ˈɔːrbɪt/         | 轨道；绕轨运行       | 名词/动词   |
+| decommission   | /ˌdiːkəˈmɪʃn/     | 退役                 | 动词        |
+| halt           | /hɔːlt/           | 停止                 | 动词/名词   |
+| impress        | /ɪmˈpres/         | 给人深刻印象         | 动词        |
+| tick           | /tɪk/             | 滴答作响             | 动词        |
+| facility       | /fəˈsɪləti/       | 设施                 | 名词        |
+| iditarod       | /ɪˈdɪtərɑːd/      | 艾迪塔罗德（赛事名） | 名词        |
+| sled           | /sled/            | 雪橇                 | 名词        |
+| wilderness     | /ˈwɪldərnəs/      | 荒野                 | 名词        |
+| undergo        | /ˌʌndərˈɡoʊ/      | 经历                 | 动词        |
+| portion        | /ˈpɔːrʃn/         | 部分                 | 名词        |
+| spoon          | /spuːn/           | 勺子                 | 名词        |
+| narrate        | /ˈnæreɪt/         | 叙述                 | 动词        |
