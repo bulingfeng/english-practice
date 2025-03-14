@@ -28,3 +28,31 @@
 | **revenge**       | /rɪˈvendʒ/       | 复仇                                | 名词/动词 |
 | **swear**         | /swer/           | 宣誓                                | 动词      |
 | **recession**     | /rɪˈseʃn/        | 经济衰退                            | 名词      |
+
+| English Word | American Pronunciation | Chinese Meaning      | Part of Speech |
+| ------------ | ---------------------- | -------------------- | -------------- |
+| reversal     | /rɪˈvɜːrsl/            | 反转，倒转           | Noun           |
+| navigate     | /ˈnævɪɡeɪt/            | 导航，导航指引       | Verb           |
+| occupy       | /ˈɑːkjəpaɪ/            | 占领，占据           | Verb           |
+| instructed   | /ɪnˈstrʌktɪd/          | 被指示的，指导的     | Adjective      |
+| scalpel      | /ˈskælpəl/             | 外科手术刀           | Noun           |
+| conservative | /kənˈsɜːrvətɪv/        | 保守的，传统的       | Adjective      |
+| evangelical  | /ˌiːvænˈdʒɛlɪkəl/      | 福音的，传播福音的   | Adjective      |
+| headquarter  | /ˈhɛdˌkwɔːtər/         | 总部，指挥部         | Noun           |
+| campaign     | /kæmˈpeɪn/             | 活动，运动，竞选活动 | Noun           |
+| pornography  | /pɔːˈnɔːɡrəfi/         | 色情，色情制品       | Noun           |
+| numerous     | /ˈnuːmərəs/            | 许多的，众多的       | Adjective      |
+| evangelical  | /ˌiːvænˈdʒɛlɪkəl/      | 福音的，传播福音的   | Adjective      |
+| portion      | /ˈpɔːrʃən/             | 部分，一部分         | Noun           |
+| legislation  | /ˌlɛdʒɪsˈleɪʃən/       | 立法，法律           | Noun           |
+| legislation  | /ˌlɛdʒɪsˈleɪʃən/       | 立法，法律           | Noun           |
+| mystery      | /ˈmɪstəri/             | 神秘，谜团           | Noun           |
+| slant        | /slænt/                | 倾斜，偏斜           | Verb/Noun      |
+| extensively  | /ɪkˈstɛnsɪvli/         | 广泛地，广阔地       | Adverb         |
+| sibling      | /ˈsɪblɪŋ/              | 兄弟姐妹             | Noun           |
+| postpone     | /poʊsˈpoʊn/            | 推迟，延期           | Verb           |
+| backtrack    | /ˈbæktræk/             | 回溯，追溯           | Verb           |
+| exemption    | /ɪɡˈzɛmpʃən/           | 免除，豁免           | Noun           |
+| convict      | /kənˈvɪkt/             | 定罪，宣告有罪       | Verb/Noun      |
+| circadian    | /sɜːrˈkeɪdiən/         | 昼夜节律的，生物钟的 | Adjective      |
+
