@@ -50,3 +50,34 @@
 | backstroke       | /ˈbækstroʊk/        | 仰泳           | 名词      |
 | affordably       | /əˈfɔːrdəbli/       | 负担得起地     | 副词      |
 
+以下是根据您提供的单词和短语整理的表格，第一列为单词或短语（名词复数已改为单数，动词已改为原形，拼写错误已更正），第二列为美式音标，第三列为汉语意思，第四列为词性。对于拼写错误的单词（如“deportion”、“unredacated”），我分别更正为“deportation”和“unredacted”。
+
+| 单词/短语            | 美式音标              | 汉语意思       | 词性      |
+| -------------------- | --------------------- | -------------- | --------- |
+| toe                  | /toʊ/                 | 用脚尖踢       | 动词      |
+| narrow distinction   | /ˈnæroʊ dɪˈstɪŋkʃn/   | 细微差别       | 名词短语  |
+| creep                | /kriːp/               | 爬行，悄悄移动 | 动词      |
+| disjunction          | /dɪsˈdʒʌŋkʃn/         | 分裂           | 名词      |
+| defy                 | /dɪˈfaɪ/              | 违抗           | 动词      |
+| worrisome            | /ˈwɜːrisəm/           | 令人担忧的     | 形容词    |
+| deportation          | /ˌdiːpɔːrˈteɪʃn/      | 驱逐出境       | 名词      |
+| elemental            | /ˌɛlɪˈmɛntl/          | 基本的         | 形容词    |
+| dissent              | /dɪˈsɛnt/             | 异议           | 名词/动词 |
+| sympathizer          | /ˈsɪmpəθaɪzər/        | 同情者         | 名词      |
+| grade                | /ɡreɪd/               | 等级，评分     | 名词/动词 |
+| skeptical            | /ˈskɛptɪkəl/          | 怀疑的         | 形容词    |
+| flip                 | /flɪp/                | 翻转           | 动词      |
+| impeachment          | /ɪmˈpiːtʃmənt/        | 弹劾           | 名词      |
+| usurp                | /juːˈsɜːrp/           | 篡夺           | 动词      |
+| expansion            | /ɪkˈspænʃn/           | 扩展           | 名词      |
+| concede              | /kənˈsiːd/            | 承认，让步     | 动词      |
+| vulnerable           | /ˈvʌlnərəbəl/         | 易受伤害的     | 形容词    |
+| hypothetical         | /ˌhaɪpəˈθɛtɪkəl/      | 假设的         | 形容词    |
+| disapproval          | /ˌdɪsəˈpruːvəl/       | 不赞成         | 名词      |
+| thanks for having me | /θæŋks fər ˈhævɪŋ mi/ | 感谢邀请我     | 短语      |
+| closure              | /ˈkloʊʒər/            | 关闭，结束     | 名词      |
+| unredacted           | /ˌʌnrɪˈdæktɪd/        | 未删节的       | 形容词    |
+| sloppy               | /ˈslɑːpi/             | 草率的         | 形容词    |
+| Coventry             | /ˈkɑːvəntri/          | 考文垂（地名） | 名词      |
+| shrink               | /ʃrɪŋk/               | 缩小           | 动词      |
+
