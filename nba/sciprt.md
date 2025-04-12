@@ -44,3 +44,65 @@ NBA 全称是 National Basketball Assosination；NBA 一共有 30 只球队， �
 
 
 
+
+以下是NBA（美国职业篮球联赛）的东西部球队列表，包括中英文名称。NBA分为东部和西部两个联盟，每个联盟有15支球队。以下是详细的球队列表：
+
+---
+
+### **东部联盟（Eastern Conference）**
+
+1. **Boston Celtics - 波士顿凯尔特人**  
+2. **Brooklyn Nets - 布鲁克林篮网**  
+3. **New York Knicks - 纽约尼克斯**  
+4. **Philadelphia 76ers - 费城76人**  
+5. **Toronto Raptors - 多伦多猛龙**  
+6. **Chicago Bulls - 芝加哥公牛**  
+7. **Cleveland Cavaliers - 克利夫兰骑士**  
+8. **Detroit Pistons - 底特律活塞**  
+9. **Indiana Pacers - 印第安纳步行者**  
+10. **Milwaukee Bucks - 密尔沃基雄鹿**  
+11. **Atlanta Hawks - 亚特兰大老鹰**  
+12. **Charlotte Hornets - 夏洛特黄蜂**  
+13. **Miami Heat - 迈阿密热火**  
+14. **Orlando Magic - 奥兰多魔术**  
+15. **Washington Wizards - 华盛顿奇才**
+
+---
+
+### **西部联盟（Western Conference）**
+
+1. **Golden State Warriors - 金州勇士**  
+2. **LA Clippers - 洛杉矶快船**  
+3. **Los Angeles Lakers - 洛杉矶湖人**  
+4. **Phoenix Suns - 菲尼克斯太阳**  
+5. **Sacramento Kings - 萨克拉门托国王**  
+6. **Dallas Mavericks - 达拉斯独行侠**  
+7. **Houston Rockets - 休斯顿火箭**  
+8. **Memphis Grizzlies - 孟菲斯灰熊**  
+9. **New Orleans Pelicans - 新奥尔良鹈鹕**  
+10. **San Antonio Spurs - 圣安东尼奥马刺**  
+11. **Denver Nuggets - 丹佛掘金**  
+12. **Minnesota Timberwolves - 明尼苏达森林狼**  
+13. **Oklahoma City Thunder - 俄克拉荷马城雷霆**  
+14. **Portland Trail Blazers - 波特兰开拓者**  
+15. **Utah Jazz - 犹他爵士**
+
+
+东部联盟（Eastern Conference）
+Boston Celtics - 波士顿凯尔特人
+Brooklyn Nets - 布鲁克林篮网
+New York Knicks - 纽约尼克斯
+Philadelphia 76ers - 费城76人
+Toronto Raptors - 多伦多猛龙
+Chicago Bulls - 芝加哥公牛
+Cleveland Cavaliers - 克利夫兰骑士
+Detroit Pistons - 底特律活塞
+Indiana Pacers - 印第安纳步行者
+Milwaukee Bucks - 密尔沃基雄鹿
+Atlanta Hawks - 亚特兰大老鹰
+Charlotte Hornets - 夏洛特黄蜂
+Miami Heat - 迈阿密热火
+Orlando Magic - 奥兰多魔术
+Washington Wizards - 华盛顿奇才
+
+
