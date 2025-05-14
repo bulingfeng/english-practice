@@ -1,83 +1,66 @@
-| 单词             | 美式音标            | 汉语意思       | 词性      |
-| ---------------- | ------------------- | -------------- | --------- |
-| breach           | /briːtʃ/            | 违反，突破     | 名词/动词 |
-| assassination    | /əˌsæsɪˈneɪʃn/      | 暗杀           | 名词      |
-| significantly    | /sɪɡˈnɪfɪkəntli/    | 显著地         | 副词      |
-| flirt            | /flɜːrt/            | 调情           | 动词      |
-| woefully         | /ˈwoʊfəli/          | 悲惨地         | 副词      |
-| rebuke           | /rɪˈbjuːk/          | 责备           | 动词      |
-| prosecutor       | /ˈprɑːsɪkjuːtər/    | 检察官         | 名词      |
-| teeter           | /ˈtiːtər/           | 摇晃           | 动词      |
-| chastise         | /ˈtʃæstaɪz/         | 责骂           | 动词      |
-| emphasize        | /ˈɛmfəsaɪz/         | 强调           | 动词      |
-| outright         | /ˌaʊtˈraɪt/         | 完全地         | 副词      |
-| jurisdiction     | /ˌdʒʊrɪsˈdɪkʃn/     | 管辖权         | 名词      |
-| dramatic         | /drəˈmætɪk/         | 戏剧性的       | 形容词    |
-| disjunction      | /dɪsˈdʒʌŋkʃn/       | 分裂           | 名词      |
-| strident         | /ˈstraɪdnt/         | 刺耳的         | 形容词    |
-| defy             | /dɪˈfaɪ/            | 违抗           | 动词      |
-| significance     | /sɪɡˈnɪfɪkəns/      | 重要性         | 名词      |
-| escalate         | /ˈɛskəleɪt/         | 升级           | 动词      |
-| detention        | /dɪˈtɛnʃn/          | 拘留           | 名词      |
-| deport           | /dɪˈpɔːrt/          | 驱逐           | 动词      |
-| erode            | /ɪˈroʊd/            | 侵蚀           | 动词      |
-| awful            | /ˈɔːfəl/            | 可怕的         | 形容词    |
-| precedent        | /ˈprɛsɪdənt/        | 先例           | 名词      |
-| communist        | /ˈkɑːmjənɪst/       | 共产主义者     | 名词      |
-| sympathizer      | /ˈsɪmpəθaɪzər/      | 同情者         | 名词      |
-| grad             | /ɡræd/              | 毕业生         | 名词      |
-| gauge            | /ɡeɪdʒ/             | 测量           | 动词      |
-| concrete         | /ˈkɑːnkriːt/        | 具体的         | 形容词    |
-| constitutional   | /ˌkɑːnstɪˈtuːʃənəl/ | 宪法的         | 形容词    |
-| flip             | /flɪp/              | 翻转           | 动词      |
-| commentary       | /ˈkɑːmənteri/       | 评论           | 名词      |
-| recourse         | /ˈriːkɔːrs/         | 求助           | 名词      |
-| constitutional   | /ˌkɑːnstɪˈtuːʃənəl/ | 宪法的         | 形容词    |
-| centralized      | /ˈsɛntrəlaɪzd/      | 集中的         | 形容词    |
-| wheelhouse       | /ˈwiːlhaʊs/         | 驾驶室         | 名词      |
-| unrepresentative | /ˌʌnrɛprɪˈzɛntətɪv/ | 无代表性的     | 形容词    |
-| hypothetical     | /ˌhaɪpəˈθɛtɪkəl/    | 假设的         | 形容词    |
-| antagonize       | /ænˈtæɡənaɪz/       | 敌对           | 动词      |
-| robust           | /roʊˈbʌst/          | 强健的         | 形容词    |
-| eliminate        | /ɪˈlɪməneɪt/        | 消除           | 动词      |
-| curriculum       | /kəˈrɪkjələm/       | 课程           | 名词      |
-| secretary        | /ˈsɛkrəteri/        | 秘书           | 名词      |
-| unredacted       | /ˌʌnrɪˈdæktɪd/      | 未删节的       | 形容词    |
-| secretary        | /ˈsɛkrəteri/        | 秘书           | 名词      |
-| issue            | /ˈɪʃuː/             | 问题           | 名词      |
-| competition      | /ˌkɑːmpəˈtɪʃn/      | 竞争           | 名词      |
-| Coventry         | /ˈkɑːvəntri/        | 考文垂（地名） | 名词      |
-| backstroke       | /ˈbækstroʊk/        | 仰泳           | 名词      |
-| affordably       | /əˈfɔːrdəbli/       | 负担得起地     | 副词      |
-
-以下是根据您提供的单词和短语整理的表格，第一列为单词或短语（名词复数已改为单数，动词已改为原形，拼写错误已更正），第二列为美式音标，第三列为汉语意思，第四列为词性。对于拼写错误的单词（如“deportion”、“unredacated”），我分别更正为“deportation”和“unredacted”。
-
-| 单词/短语            | 美式音标              | 汉语意思       | 词性      |
-| -------------------- | --------------------- | -------------- | --------- |
-| toe                  | /toʊ/                 | 用脚尖踢       | 动词      |
-| narrow distinction   | /ˈnæroʊ dɪˈstɪŋkʃn/   | 细微差别       | 名词短语  |
-| creep                | /kriːp/               | 爬行，悄悄移动 | 动词      |
-| disjunction          | /dɪsˈdʒʌŋkʃn/         | 分裂           | 名词      |
-| defy                 | /dɪˈfaɪ/              | 违抗           | 动词      |
-| worrisome            | /ˈwɜːrisəm/           | 令人担忧的     | 形容词    |
-| deportation          | /ˌdiːpɔːrˈteɪʃn/      | 驱逐出境       | 名词      |
-| elemental            | /ˌɛlɪˈmɛntl/          | 基本的         | 形容词    |
-| dissent              | /dɪˈsɛnt/             | 异议           | 名词/动词 |
-| sympathizer          | /ˈsɪmpəθaɪzər/        | 同情者         | 名词      |
-| grade                | /ɡreɪd/               | 等级，评分     | 名词/动词 |
-| skeptical            | /ˈskɛptɪkəl/          | 怀疑的         | 形容词    |
-| flip                 | /flɪp/                | 翻转           | 动词      |
-| impeachment          | /ɪmˈpiːtʃmənt/        | 弹劾           | 名词      |
-| usurp                | /juːˈsɜːrp/           | 篡夺           | 动词      |
-| expansion            | /ɪkˈspænʃn/           | 扩展           | 名词      |
-| concede              | /kənˈsiːd/            | 承认，让步     | 动词      |
-| vulnerable           | /ˈvʌlnərəbəl/         | 易受伤害的     | 形容词    |
-| hypothetical         | /ˌhaɪpəˈθɛtɪkəl/      | 假设的         | 形容词    |
-| disapproval          | /ˌdɪsəˈpruːvəl/       | 不赞成         | 名词      |
-| thanks for having me | /θæŋks fər ˈhævɪŋ mi/ | 感谢邀请我     | 短语      |
-| closure              | /ˈkloʊʒər/            | 关闭，结束     | 名词      |
-| unredacted           | /ˌʌnrɪˈdæktɪd/        | 未删节的       | 形容词    |
-| sloppy               | /ˈslɑːpi/             | 草率的         | 形容词    |
-| Coventry             | /ˈkɑːvəntri/          | 考文垂（地名） | 名词      |
-| shrink               | /ʃrɪŋk/               | 缩小           | 动词      |
-
+breach
+assassination
+significantly
+flirt
+woefully
+rebuke
+prosecutor
+teeter
+chastise
+emphasize
+outright
+jurisdiction
+dramatic
+disjunction
+strident
+defy
+significance
+escalate
+detention
+deport
+erode
+awful
+precedent
+communist
+sympathizer
+grad
+gauge
+concrete
+constitutional
+flip
+commentary
+recourse
+centralized
+wheelhouse
+unrepresentative
+hypothetical
+antagonize
+robust
+eliminate
+curriculum
+secretary
+unredacted
+issue
+competition
+Coventry
+backstroke
+affordably
+toe
+narrow distinction
+creep
+worrisome
+deportation
+elemental
+dissent
+grade
+skeptical
+impeachment
+usurp
+expansion
+concede
+vulnerable
+disapproval
+thanks for having me
+closure
+sloppy
+shrink

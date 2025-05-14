@@ -1,58 +1,53 @@
-| 英文单词          | 美式发音         | 汉语意思                            | 词性      |
-| ----------------- | ---------------- | ----------------------------------- | --------- |
-| soda              | /ˈsoʊdə/         | 苏打水                              | 名词      |
-| stopgap           | /ˈstɑːpɡæp/      | 权宜之计                            | 名词      |
-| **enforcement**   | /ɪnˈfɔːrsmənt/   | 执行，强制                          | 名词      |
-| **explicitly**    | /ɪkˈsplɪsɪtli/   | 明确地                              | 副词      |
-| dissent           | /dɪˈsent/        | 异议，反对                          | 名词/动词 |
-| conservative      | /kənˈsɜːrvətɪv/  | 保守的                              | 形容词    |
-| overstep          | /ˌoʊvərˈstep/    | 越权，超越                          | 动词      |
-| bipartisan        | /ˌbaɪˈpɑːrtɪzn/  | 两党的                              | 形容词    |
-| threaten          | /ˈθretn/         | 威胁                                | 动词      |
-| consequential     | /ˌkɑːnsɪˈkwenʃl/ | 重要的，结果的                      | 形容词    |
-| **parliamentary** | /ˌpɑːrləˈmentri/ | 议会的                              | 形容词    |
-| colonize          | /ˈkɑːlənaɪz/     | 殖民                                | 动词      |
-| autonomous        | /ɔːˈtɑːnəməs/    | 自治的                              | 形容词    |
-| vulnerable        | /ˈvʌlnərəbl/     | 脆弱的                              | 形容词    |
-| vast              | /væst/           | 广阔的                              | 形容词    |
-| oppose            | /əˈpoʊz/         | 反对                                | 动词      |
-| disgusting        | /dɪsˈɡʌstɪŋ/     | 恶心的                              | 形容词    |
-| snap              | /snæp/           | 快照；SNAP（补助计划）              | 名词      |
-| subsidize         | /ˈsʌbsɪdaɪz/     | 补贴                                | 动词      |
-| nutritional       | /nuˈtrɪʃənl/     | 营养的                              | 形容词    |
-| burden            | /ˈbɜːrdn/        | 负担                                | 名词      |
-| retailer          | /ˈriːteɪlər/     | 零售商                              | 名词      |
-| dignity           | /ˈdɪɡnəti/       | 尊严                                | 名词      |
-| measle            | /ˈmiːzl/         | 麻疹（单数形式罕用，通常为measles） | 名词      |
-| **vaccine**       | /vækˈsiːn/       | 疫苗                                | 名词      |
-| **revenge**       | /rɪˈvendʒ/       | 复仇                                | 名词/动词 |
-| **swear**         | /swer/           | 宣誓                                | 动词      |
-| **recession**     | /rɪˈseʃn/        | 经济衰退                            | 名词      |
-
-| English Word | American Pronunciation | Chinese Meaning      | Part of Speech |
-| ------------ | ---------------------- | -------------------- | -------------- |
-| reversal     | /rɪˈvɜːrsl/            | 反转，倒转           | Noun           |
-| navigate     | /ˈnævɪɡeɪt/            | 导航，导航指引       | Verb           |
-| occupy       | /ˈɑːkjəpaɪ/            | 占领，占据           | Verb           |
-| instructed   | /ɪnˈstrʌktɪd/          | 被指示的，指导的     | Adjective      |
-| scalpel      | /ˈskælpəl/             | 外科手术刀           | Noun           |
-| conservative | /kənˈsɜːrvətɪv/        | 保守的，传统的       | Adjective      |
-| evangelical  | /ˌiːvænˈdʒɛlɪkəl/      | 福音的，传播福音的   | Adjective      |
-| headquarter  | /ˈhɛdˌkwɔːtər/         | 总部，指挥部         | Noun           |
-| campaign     | /kæmˈpeɪn/             | 活动，运动，竞选活动 | Noun           |
-| pornography  | /pɔːˈnɔːɡrəfi/         | 色情，色情制品       | Noun           |
-| numerous     | /ˈnuːmərəs/            | 许多的，众多的       | Adjective      |
-| evangelical  | /ˌiːvænˈdʒɛlɪkəl/      | 福音的，传播福音的   | Adjective      |
-| portion      | /ˈpɔːrʃən/             | 部分，一部分         | Noun           |
-| legislation  | /ˌlɛdʒɪsˈleɪʃən/       | 立法，法律           | Noun           |
-| legislation  | /ˌlɛdʒɪsˈleɪʃən/       | 立法，法律           | Noun           |
-| mystery      | /ˈmɪstəri/             | 神秘，谜团           | Noun           |
-| slant        | /slænt/                | 倾斜，偏斜           | Verb/Noun      |
-| extensively  | /ɪkˈstɛnsɪvli/         | 广泛地，广阔地       | Adverb         |
-| sibling      | /ˈsɪblɪŋ/              | 兄弟姐妹             | Noun           |
-| postpone     | /poʊsˈpoʊn/            | 推迟，延期           | Verb           |
-| backtrack    | /ˈbæktræk/             | 回溯，追溯           | Verb           |
-| exemption    | /ɪɡˈzɛmpʃən/           | 免除，豁免           | Noun           |
-| convict      | /kənˈvɪkt/             | 定罪，宣告有罪       | Verb/Noun      |
-| circadian    | /sɜːrˈkeɪdiən/         | 昼夜节律的，生物钟的 | Adjective      |
+soda  
+stopgap  
+enforcement  
+explicitly  
+dissent  
+conservative  
+overstep  
+bipartisan  
+threaten  
+consequential  
+parliamentary  
+colonize  
+autonomous  
+vulnerable  
+vast  
+oppose  
+disgusting  
+snap  
+subsidize  
+nutritional  
+burden  
+retailer  
+dignity  
+measle  
+vaccine  
+revenge  
+swear  
+recession  
+reversal  
+navigate  
+occupy  
+instructed  
+scalpel  
+conservative  
+evangelical  
+headquarter  
+campaign  
+pornography  
+numerous  
+evangelical  
+portion  
+legislation  
+legislation  
+mystery  
+slant  
+extensively  
+sibling  
+postpone  
+backtrack  
+exemption  
+convict  
+circadian
 
