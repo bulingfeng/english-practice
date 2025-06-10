@@ -66,6 +66,14 @@ Advanced stats
 - **用法**：越高越好，常用于评价球员在整个赛季的综合影响力。
 - ✅ 适合横向比较球员一整季的总体表现。
 
+> I'll introduce 4 advanced Stats in basketball.
+>
+> the first is ws, win shares. 
+>
+> Win Shares in basketball are an advanced statistic that estimates a player's total contribution to their team's wins. It breaks down a player's performance into offensive and defensive components, aiming to quantify how many wins an individual player "produced" for their team in a given season.
+>
+> The higher this metric, the better.
+
 ------
 
 ### 2. **BPM** – **Box Plus/Minus**
