@@ -85,6 +85,8 @@ Advanced stats
 - ✅ 可以反映球员在场时对比赛的整体正面/负面影响。
 - **BPM = 0** 通常代表平均水准；**>+5** 是明星级别，**>+8** 是MVP水准。
 
+> In the NBA, BPM stands for Box Plus/Minus. It's an advanced basketball statistics that estimates a player's contribution to their team's performance while on the court, measured in points above league average per 100 possessions.
+
 ------
 
 ### 3. **VORP** – **Value Over Replacement Player**
