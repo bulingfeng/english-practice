@@ -41,9 +41,49 @@
 
 
 
+intro
+
+beforehand
+
+vaguely
+
+elementary
+
+nudity
+
+premise
+
+Lawn mower
+
+chopped
+
+franken
+
+prositute
+
+stitches
+
+corpse
+
+puzzle
+
+thunderstorm
+
+joit
+
+elegible
+
+ego
+
+contest
+
+Vertical
 
 
 
+## 词组
+
+Made out of
 
 ## NBA 缩写
 
@@ -86,6 +126,8 @@ Advanced stats
 - **BPM = 0** 通常代表平均水准；**>+5** 是明星级别，**>+8** 是MVP水准。
 
 > In the NBA, BPM stands for Box Plus/Minus. It's an advanced basketball statistics that estimates a player's contribution to their team's performance while on the court, measured in points above league average per 100 possessions.
+>
+> How it's calculated: BPM is based on a player's box score stats, including points, rebounds, assists, steals, and blocks, along with their team's overall performance. It uses these factors to estimate how many points a player adds to their team's score per 100 possessions. 
 
 ------
 
@@ -97,6 +139,10 @@ Advanced stats
 - **比如**：VORP = 4.0，表示这个球员比普通替补能多带来约4场胜利的价值。
 - ✅ 可以用于赛季或生涯价值评估。
 - **累积型数据**：打得越多、效率越高，VORP越高。
+
+Value Over Replacement Player (VORP) is a statistical measure used in sports, particularly fantasy sports, to assess a player's value relative to a readily available replacement-level player.
+
+If a fantasy basketball player has a VORP of 3.0, it means they are contributing 3.0 more fantasy points per 100 possessions than a replacement-level player. 
 
 ------
 
