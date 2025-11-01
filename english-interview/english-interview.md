@@ -65,3 +65,42 @@ New words
 >
 > upfront
 
+## 过往经历
+
+| 中文                                                         | English                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 你能给我一个你和领导意见相左的例子吗？                       | **Could you please give me an example of a time when you and your manager were at odds?** |
+| 好的。其实大部分时候，我和我老板都意见一致，我其实很认同他的管理理念，而且认真执行他的决策。不过去年有一次，我们整个团队人员调整，优化了一些老人，来了不少新人，结果当季的业绩明显下滑。当时我提出要建立团队的知识体系以便更高效地培养新人，但我领导当时并不买账，认为这是浪费时间，还不如好好做客户。 | **Yes. Most of the time, my manager and I see eye to eye.** I really buy in to his **management philosophies** and focus on **executing his ideas**. But last year, there was a **re-org** where some more senior employees were **terminated and replaced with new joiners**. The result was that performance for that quarter **nosedived**. I proposed setting up a training framework to help the new members **get up to speed** more quickly, but my boss wasn’t really **onboard with** the idea. He felt it was a waste of time, and instead, we should focus more on **client engagement**. |
+| 那你是怎么说服他的啊？                                       | **How did you manage to convince him eventually?**           |
+
+| 英文短语 / 单词               | 中文释义                       |
+| ----------------------------- | ------------------------------ |
+| **be at odds with somebody**  | 与某人有矛盾 / 意见不合        |
+| **see eye to eye**            | 与某人意见一致                 |
+| **management philosophies**   | 管理理念                       |
+| **execute** (v.)              | 执行                           |
+| **re-org** (n.)               | 组织架构调整（reorganization） |
+| **terminate** (v.)            | 终止、裁退、解雇               |
+| **new joiner**                | 新员工、新入职者               |
+| **nosedive** (v.)             | 暴跌、急剧下滑                 |
+| **get up to speed**           | 跟上进度、熟悉情况             |
+| **be onboard with something** | 认同、支持某事                 |
+| **client engagement**         | 客户对接、客户互动             |
+
+| 中文                                                         | English                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 我拿了阿里巴巴销售团队的最佳实践，给我领导看。因为阿里巴巴的销售是业内公认最强的嘛。结果阿里巴巴内部有非常完善的销售培养体系，包括统一的学习资料和一对一的导师传帮带。 | **I showed him a successful case from the Alibaba sales team.** It was definitely persuasive, since we all know Alibaba is **top-of-industry sales-wise**. He learned that Alibaba has a very comprehensive sales training program, which includes a **standardized curriculum** and also **one-on-one mentorship program**. |
+| 明白了。你觉得你从这次的经历中学到了什么？                   | **I see. What do you think you took away from this experience?** |
+| 我觉得坦诚清晰的沟通是至关重要的，尤其是出现意见不合的情况时。我认为只要大家最终目标都是为了团队发展，总能商量出最有效的方案的。 | **I learned that the key to communication** is being candid and clear, especially when there are **differing opinions**. I believe as long as we’re **aligned on** the same goal, which is to make our team stronger, we can always **negotiate an effective solution**. |
+
+| 英文短语 / 单词                     | 中文释义             |
+| ----------------------------------- | -------------------- |
+| **top-of-industry**                 | 行业顶尖的           |
+| **sales-wise**                      | 从销售角度来看       |
+| **standardized curriculum**         | 标准化培训课程       |
+| **one-on-one mentorship program**   | 一对一导师制度       |
+| **took away from (something)**      | 从……中学到           |
+| **the key to (something)**          | ……的关键             |
+| **differing opinions**              | 不同的意见、分歧     |
+| **be aligned on (something)**       | 在某事上达成一致     |
+| **negotiate an effective solution** | 协商出有效的解决方案 |
