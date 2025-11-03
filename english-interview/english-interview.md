@@ -104,3 +104,22 @@ New words
 | **differing opinions**              | 不同的意见、分歧     |
 | **be aligned on (something)**       | 在某事上达成一致     |
 | **negotiate an effective solution** | 协商出有效的解决方案 |
+
+## 求职动机
+
+| 中文                                                         | English                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 通过刚才跟你的沟通，我觉得其实你在目前的岗位做得很好啊。方便跟我说一下你想换工作的原因吗？ | **From our conversation so far**, I feel you’re doing an excellent job in your current role. **May I ask why you want to seek opportunities elsewhere?** |
+| 是这样，确实我目前的岗位做得还不错。但说实话，这份工作的发展空间有限，而且我觉得现在的工作没啥挑战了。所以，想跳出舒适区，尝试新的方向。 | **The thing is**, I’m doing pretty well where I am now, but I don’t think **there’s much room for** further career development. It’s no longer challenging. I want to **jump out of my comfort zone** and explore another field. |
+| 这样啊，那你不担心你在新工作的表现不如之前吗？               | **I see. And do you worry that you won’t perform as well in your new role compared with previously?** |
+| 我觉得这个是必然的，毕竟是新方向，肯定需要一定时间适应。但我觉得这是目前发展的必经之路。如果永远停留在舒适区，是没办法成长的。 | **I’d say that’s inevitable. After all, it’s** **uncharted territory** **for me.** I’ll need time to **get on board with** everything. However, **taking on challenges** comes with career development for anyone. If you’re constantly in your comfort zone, you won’t grow either. |
+
+| 英文短语 / 单词                  | 中文释义                       |
+| -------------------------------- | ------------------------------ |
+| **seek opportunities elsewhere** | 寻找其他机会                   |
+| **The thing is...**              | 情况是这样的……（用于引出解释） |
+| **there’s much room for...**     | 有……的空间（发展、改进等）     |
+| **jump out of my comfort zone**  | 跳出舒适区                     |
+| **uncharted territory**          | 未探索的领域，新方向           |
+| **get on board with something**  | 适应、接受某事                 |
+| **taking on challenges**         | 迎接挑战                       |
