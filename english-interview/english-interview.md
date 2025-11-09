@@ -123,3 +123,49 @@ New words
 | **uncharted territory**          | 未探索的领域，新方向           |
 | **get on board with something**  | 适应、接受某事                 |
 | **taking on challenges**         | 迎接挑战                       |
+
+## 文化契合度
+
+| 中文                                                         | English                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 我们公司业务处于快速发展期，所以有时不可避免需要员工加班，不知道你对此怎么看？ | **Our business is still in a hyper-growth stage**, so employees **are bound to work overtime**. What are your thoughts? |
+| 这个得分情况。有意义的加班我可以接受，比如确实是项目着急上线，我接受临时性的加班，但同时我希望公司可以支付加班费。不过，对于“内卷”性质的加班我无法认同。如果纯粹是为了比谁下班晚而加班，这种情况我是无法接受的，不过我相信贵司也不赞成内卷文化。 | **It depends.** I can accept overtime (OT) from time to time if necessary, such as working to launch an urgent project, but I’d also like to be paid for it. But if it’s just a meaningless race to see who can **work the longest hours or stay behind the latest**, then I’m afraid I can’t **subscribe to that**. But I know that you guys don’t encourage that sort of **“rat race” culture** anyway. |
+| 确实，公司不鼓励内卷。如果工作做完了，当然可以按时下班。不过公司希望员工可以不断拓展业务边界，不仅仅局限于自己的业务范围。 | **I agree, we certainly don’t.** If you’ve completed your tasks for the day, of course, you can **clock off**. However, the company wants to see its employees constantly **pushing boundaries** and breaking into new fields, rather than just focusing on current businesses. |
+| 能理解，毕竟是创业公司，需要大家激进一些。不过，我还是想先把自己的工作做好，如果有余力的话，会主动探索新的业务机会和可能。 | **Totally understood.** After all, you’re a **start-up company** and need people to be more **proactive**. But to start, I’d still like to focus on doing my current job well. **If I have time and effort to spare**, I’ll keep exploring new possibilities. |
+
+| 英文短语 / 单词                                     | 中文释义               |
+| --------------------------------------------------- | ---------------------- |
+| **hyper-growth** (adj.)                             | 高速发展的             |
+| **be bound to do something**                        | 注定要做某事           |
+| **work overtime**                                   | 加班                   |
+| **work the longest hours / stay behind the latest** | 加班最久 / 最晚下班    |
+| **subscribe to an idea**                            | 认同某种观点           |
+| **rat race culture**                                | 内卷文化               |
+| **clock off**                                       | 下班打卡               |
+| **push boundaries**                                 | 突破边界               |
+| **start-up company**                                | 初创公司               |
+| **proactive** (adj.)                                | 积极主动的             |
+| **if I have time and effort to spare**              | 如果我有时间和精力的话 |
+
+## 领导力
+
+| 中文                                                         | English                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 你觉得管理团队最大的挑战是什么？                             | **What has been the biggest leadership challenge for you so far?** |
+| 管理团队的本质是管人嘛。通过管理下属来帮你拿到结果。但其实，作为一线业务负责人，管人和管事儿得一起做，这个对我来说是最大的挑战，主要体现在精力不够用。 | **Leadership, at the end of the day,** is about managing your teams so they can produce the outcomes you want. But as the head of a business, you need to manage both people and things at the same time. That has been the toughest challenge. I often feel that **my capacity is overstretched.** |
+| 可以展开具体说一下嘛？                                       | **Could you elaborate?**                                     |
+| 好的，没问题。我自己亲身体会就是，你得定期跟每个下属一对一沟通，帮他们排解情绪，听他们吐槽；业务不会做的时候还得手把手教他们；不得时不时跟协同部门要资源，不给就撕逼。总之，原来只做员工的时候只需一心把业务做好就行，但现在不行了，要管的事情太多了。 | **Absolutely. From personal experience,** it's important to have **regular one-on-ones** with your team, so they have an opportunity to **vent and get it out of their system**. You also have to **coach** them on the business side of things so they can **learn on the job**. Sometimes, you also have to ask for support or resources from collaborating teams, which can often lead to a lot of arguments when they refuse. Simply put, previously all I had to do was focusing on the business and **doing my job right**, but now **I have too much on my plate to juggle.** |
+
+| 英文短语 / 单词                            | 中文释义                 |
+| ------------------------------------------ | ------------------------ |
+| **at the end of the day**                  | 归根结底，最终           |
+| **my capacity is overstretched**           | 我的精力不够用           |
+| **elaborate on something**                 | 详细展开说明             |
+| **from personal experience**               | 从我个人经验出发         |
+| **regular one-on-ones**                    | 定期一对一会议           |
+| **vent**                                   | 发泄、吐槽               |
+| **get it out of their system**             | 排解情绪                 |
+| **coach**                                  | 指导、教导（下属或新人） |
+| **learn on the job**                       | 边做边学                 |
+| **doing my job right**                     | 把工作做好               |
+| **have too much on one’s plate to juggle** | 要顾的事情太多，忙不过来 |
