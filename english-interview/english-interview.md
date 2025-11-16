@@ -169,3 +169,30 @@ New words
 | **learn on the job**                       | 边做边学                 |
 | **doing my job right**                     | 把工作做好               |
 | **have too much on one’s plate to juggle** | 要顾的事情太多，忙不过来 |
+
+## 薪资待遇
+
+| 中文                                                   | English                                                      |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| 很高兴你接受这份工作，期待与你共事。                   | **I'm glad that you can accept everything that comes with this role.** I look forward to working with you. 🔹 *Accept (everything that comes with this role)* 接受这份工作 |
+| 我也很荣幸能得到工作机会，进入贵司工作一直是我理想。   | **It's a great privilege to** have this opportunity to join your company. It's always been a dream of mine. 🔹 *It's a great privilege to do something* 【句型】很荣幸做某事 |
+| 那接下来就是稍微敏感一点的话题了，你的期望薪资是多少？ | **I appreciate that. Now, let's talk about something a bit more delicate.** What are your **salary expectations?** 🔹 *Delicate* adj. 敏感的 🔹 *Salary expectations* 期望薪资 |
+| 在说我的期望薪资之前，可以先了解一下你们的定薪标准吗？ | **Before we get there,** can I ask how **compensation** is determined here? 🔹 *Before we get there* 在我们谈论某事之前 🔹 *Compensation* n. 薪资、报酬 |
+
+| 中文                                                         | English                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 没问题。我们会在对候选人的多轮面试中评估候选人的能力等级，然后根据能力来确定他所处的职级，最终候选人拟定的职级会决定他的薪资范围，而最终的值则由具体的面试表现分数决定。 | **Of course.** After several rounds of interviews, we will assess the candidate’s competency based on both his or her performance, and give the candidate a **grading**. The grading will in turn determine the **compensation band**. |
+| 明白了，听下来感觉是很科学合理的定薪体系。我觉得基于我目前的能力和经验，我希望月薪在3万左右。 | **I see.** The system sounds quite reasonable. Based on my skillset and expertise, my expectation is around 30,000 RMB per month. |
+| 明白了，这个数字我们可以给到。同时，除了月薪外，年终会有3-6个月的奖金，具体拿几个⽉取决于你的⼯作表现。而且，我们还有每个月2000的房补。 | **Got it.** I can give you that. Also, **on top of** your monthly salary, you also have 3 to 6 months’ salary in **annual bonus**, with the exact figure to be determined by your performance for that year. Also, we have a monthly **housing subsidy** of 2000 RMB. |
+| 好的，其实钱多少无所谓，能进⼊贵司⼯作才是最重要的。         | **Thank you, great to know. Compensation’s not top-of-agenda for me actually.** I truly value this opportunity to become part of your team. |
+
+| 英文短语 / 单词       | 中文释义               |
+| --------------------- | ---------------------- |
+| **grading** (n.)      | 等级、评分             |
+| **compensation band** | 薪资范围               |
+| **job level**         | 职级                   |
+| **on top of**         | 除了……之外             |
+| **annual bonus**      | 年终奖                 |
+| **housing subsidy**   | 住房补贴               |
+| **compensation**      | 薪资、报酬（HR常用词） |
+| **top-of-agenda**     | 最重要的事项           |
