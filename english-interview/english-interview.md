@@ -3,6 +3,11 @@
 1. 可以使用英语做自我介绍+项目的介绍；
 2. 可以使用全英文进行上课
 
+发音技巧
+
+- 一个意群一定要连在一起，意群直接可以有停断，但是意群之间完全不能有停顿
+- 思考每个意群中的重点，然后进行重点读
+
 ## 开始面试--开场
 
 | 中文                                                         | English                                                      |
@@ -181,7 +186,7 @@ New words
 
 | 中文                                                         | English                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 没问题。我们会在对候选人的多轮面试中评估候选人的能力等级，然后根据能力来确定他所处的职级，最终候选人拟定的职级会决定他的薪资范围，而最终的值则由具体的面试表现分数决定。 | **Of course.** After several rounds of interviews, we will assess the candidate’s competency based on both his or her performance, and give the candidate a **grading**. The grading will in turn determine the **compensation band**. |
+| 没问题。我们会在对候选人的多轮面试中评估候选人的能力等级，然后根据能力来确定他所处的职级，最终候选人拟定的职级会决定他的薪资范围，而最终的值则由具体的面试表现分数决定。 | **Of course.** After several rounds of interviews, we will assess the candidate’s competency based on his or her performance, and give the candidate a **grading**. The grading will in turn determine the **compensation band**. |
 | 明白了，听下来感觉是很科学合理的定薪体系。我觉得基于我目前的能力和经验，我希望月薪在3万左右。 | **I see.** The system sounds quite reasonable. Based on my skillset and expertise, my expectation is around 30,000 RMB per month. |
 | 明白了，这个数字我们可以给到。同时，除了月薪外，年终会有3-6个月的奖金，具体拿几个⽉取决于你的⼯作表现。而且，我们还有每个月2000的房补。 | **Got it.** I can give you that. Also, **on top of** your monthly salary, you also have 3 to 6 months’ salary in **annual bonus**, with the exact figure to be determined by your performance for that year. Also, we have a monthly **housing subsidy** of 2000 RMB. |
 | 好的，其实钱多少无所谓，能进⼊贵司⼯作才是最重要的。         | **Thank you, great to know. Compensation’s not top-of-agenda for me actually.** I truly value this opportunity to become part of your team. |
@@ -196,3 +201,22 @@ New words
 | **housing subsidy**   | 住房补贴               |
 | **compensation**      | 薪资、报酬（HR常用词） |
 | **top-of-agenda**     | 最重要的事项           |
+
+## 常见候选人问题（1）
+
+| 中文                                                         | English                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 我要了解的大概就这些。现在该你了，你有什么想了解的吗？       | **Those are all my questions. Now it’s your turn** – anything you’d like to **learn** more about? |
+| 我其实有几个问题想跟您沟通一下。可以简单介绍一下我即将入职的团队吗？ | Yes, can you **share some more information** about the team I'll be working with? |
+| 好问题。我们的广告销售团队一共分布在三个地区，北京上海和深圳，每个地区10人左右，一共约30人。不过现在业务发展快，我们希望年底能将员工数量翻一番。平时跟销售团队配合比较紧密的就是运营团队了，每个地区在3-5人左右，运营团队也在招人。 | Great question. Our ad sales team **is based in** three cities – Beijing, Shanghai and Shenzhen. Each base has around 10 people, so 30 team members in total. However, our business is in hyper-growth right now, so our year-end **head count is expected to double**. The operations team **partners closely with** ad sales. They currently have 3 to 5 members in each base, and are also hiring. |
+| 感觉我很幸运，步入了一个快车道。                             | I'm fortunate to be entering such a **fast-growing business**. |
+
+| 英文短语 / 单词                        | 中文释义                       |
+| -------------------------------------- | ------------------------------ |
+| **learn / find out more about**        | 进一步了解某事                 |
+| **share some more information about…** | 分享更多关于……的信息           |
+| **be based in**                        | 位于……；设立在……               |
+| **head count (HC)**                    | 招聘名额、人数编制             |
+| **be expected to do something**        | 预计会做某事                   |
+| **partner closely with**               | 与……紧密合作                   |
+| **fast-growing business**              | 快速增长的业务（比喻“快车道”） |
