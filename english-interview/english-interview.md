@@ -220,3 +220,38 @@ New words
 | **be expected to do something**        | 预计会做某事                   |
 | **partner closely with**               | 与……紧密合作                   |
 | **fast-growing business**              | 快速增长的业务（比喻“快车道”） |
+
+| 中文                                                         | English                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 确实，由于疫情，大家居家后，对内容的消费变多，因此线上的广告业的机会来了。你还有其他问题吗？ | **Interestingly, because of COVID-19 lockdowns, people are consuming more content from the comfort of their own homes**, which has brought greater opportunities to the ad business. **Any other questions?** |
+| 暂时没有了，如果有新的问题我可以微信找你沟通吗？             | **All good for now.** If I have any more questions, can I **ping** you on WeChat? |
+| 没问题啊，欢迎。那你如果没有其他问题的话，面试就到这里。人事部门会在7个工作日内联系你，告知录取结果。 | **Anytime.** Well, let’s finish for today, and HR will **reach out to** you within **7 working days** to **inform you** of the outcome. |
+| 好的明白，谢谢。                                             | **Understood, thanks again.**                                |
+
+| 英文短语 / 单词                         | 中文释义                       |
+| --------------------------------------- | ------------------------------ |
+| **consume content**                     | 消费内容（看视频、刷新闻等）   |
+| **from the comfort of their own homes** | 在家中轻松地 / 舒适地          |
+| **All good for now**                    | 暂时没问题                     |
+| **ping (v.)**                           | 发消息，联系（口语，非常常用） |
+| **reach out to somebody**               | 联系某人                       |
+| **working day**                         | 工作日                         |
+| **inform somebody of something**        | 通知某人某事                   |
+
+| 中文                                                         | English                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 我要了解的大概就这些。现在该你了，你有什么想了解的吗？       | **Those are all my questions. Now it's your turn** – anything you'd like to **learn / find out** more about? |
+| 我其实有几个问题想跟您沟通一下。可以简单介绍一下我即将入职的团队吗？ | Yes, can you **share some more information** about the team I'll be working with? |
+| 好问题。我们的广告销售团队一共分布在三个地区，北京上海和深圳，每个地区10人左右，一共约30人。不过现在业务发展快，我们希望年底能将员工数量翻一番。平时跟销售团队配合比较紧密的就是运营团队了，每个地区在3–5人左右，运营团队也在招人。 | Great question. Our ad sales team **is based in** three cities — Beijing, Shanghai and Shenzhen. Each base has around 10 people, so 30 team members in total. However, our business is in hyper-growth right now, so our year-end **head count is expected to double**. The operations team **partners closely with** ad sales. They currently have 3 to 5 members in each base, and are also hiring. |
+| 感觉我很幸运，步入了一个快车道。                             | I'm fortunate to be entering such a **fast-growing business**. |
+
+| 表达                            | 含义                     |
+| ------------------------------- | ------------------------ |
+| **Now it's your turn**          | 现在轮到你了             |
+| **learn / find out more about** | 进一步了解               |
+| **share some more information** | 分享更多信息             |
+| **be based in**                 | 位于…… / 设立在……        |
+| **head count**                  | 招聘人数、编制           |
+| **is expected to**              | 预计会……                 |
+| **partner closely with**        | 与……紧密合作             |
+| **fast-growing business**       | 快速发展的业务（快车道） |
